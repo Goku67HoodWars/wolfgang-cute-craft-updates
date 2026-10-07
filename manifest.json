@@ -821,16 +821,16 @@
     },
     {
       "file": "wolfgangrenderfix.jar",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgangrenderfix.jar",
-      "sha256": "6019b5da738366e90a840a48a2575c68cbc5a5565788af41cf0981cd0fed09fc",
+      "sha256": "5bd009dc3d6c99ee42de9b94a819384ddd97319d6408dff71c2bf50cebb42b6a",
       "id": "wolfgangrenderfix"
     },
     {
       "file": "wolfgangupdater.jar",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgangupdater.jar",
-      "sha256": "afca7f1cd3d93210d1fa0b419956b11a4622455311087f48ce823620cb4f31bf",
+      "sha256": "1c86f9cdab27c1a2cc8bc0755c9ce777301c004a4c70765bb1a8ed4988338c06",
       "id": "wolfgangupdater"
     },
     {
