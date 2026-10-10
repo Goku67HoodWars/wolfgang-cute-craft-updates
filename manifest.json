@@ -828,9 +828,9 @@
     },
     {
       "file": "wolfgangupdater.jar",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgangupdater.jar",
-      "sha256": "061cd32141914f39fd89d5123ab740802d62efb963e209eeecee94f649555663",
+      "sha256": "a6d6b64d59e3cc4153b1fc634b0b218cd43dfe8709a16e128afa7a44294e4ecb",
       "id": "wolfgangupdater"
     },
     {
@@ -839,6 +839,26 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/zetter-0.21.7-fabric.jar",
       "sha256": "c6e73d35da22308c0daf01dcb6a143f6fe138586206daedd0719e7d673f88a69",
       "id": "zetter"
+    }
+  ],
+  "packs": [
+    {
+      "file": "Wolfgang Core Fixes (DO NOT REMOVE).zip",
+      "dir": "resourcepacks",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgang-core-fixes.zip",
+      "sha256": "a0aba5247abc32e4f616395d02fd49848d9719f25f536c64bf72cee531da4a6a"
+    },
+    {
+      "file": "wolfgang_qa_fixes.zip",
+      "dir": "moonlight-global-datapacks",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgang_qa_fixes.zip",
+      "sha256": "ccf59c5722dfe0194720f3fa869b8036487785b2083c4b8ed4031c53e1216552"
+    },
+    {
+      "file": "wolfgang_pams_worldgen.zip",
+      "dir": "moonlight-global-datapacks",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgang_pams_worldgen.zip",
+      "sha256": "de5677bccdce27c827f55acb56d6ad31419451a1f850e5377cad4a2534f27b5c"
     }
   ]
 }
