@@ -324,10 +324,10 @@
     },
     {
       "id": "collective",
-      "file": "collective-26.2.0-8.53.jar",
-      "version": "8.53",
-      "sha256": "3c231adc2e4feebad398ec979bb721b4f317af40f790e62285d6e9df9eee3aa1",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/collective-26.2.0-8.53.jar"
+      "file": "collective-26.2.0-8.58.jar",
+      "version": "8.58",
+      "sha256": "5d3c53be21837a6547bfe2efa492fe322620dbce9cc32f112d6cedd9604b9532",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/collective-26.2.0-8.58.jar"
     },
     {
       "file": "cooking_with_mindthemoods-fabric-26.2-1.0.0.jar",
@@ -611,10 +611,10 @@
     },
     {
       "id": "jei",
-      "file": "jei-26.2-fabric-30.42.0.236.jar",
-      "version": "30.42.0.236",
-      "sha256": "8510fdb58d2eeffb2ff61ba5659ed9d52139426dea9594822032cd4eb997c3d9",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/jei-26.2-fabric-30.42.0.236.jar"
+      "file": "jei-26.2-fabric-30.42.0.237.jar",
+      "version": "30.42.0.237",
+      "sha256": "c88918f4c3beb379ac8ccb9a3b3629903f536aaccebf5e5cf424abb655dd3cda",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/jei-26.2-fabric-30.42.0.237.jar"
     },
     {
       "file": "jewelcraft-fabric-26.2-1.7.0.jar",
@@ -856,10 +856,10 @@
     },
     {
       "id": "treeharvester",
-      "file": "treeharvester-26.2.0-10.2.jar",
-      "version": "10.2",
-      "sha256": "1137e24730cbabbe4dd4f5f7900cadee8b9f75529ac56f7d1baf44d2a1e37cab",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/treeharvester-26.2.0-10.2.jar"
+      "file": "treeharvester-26.2.0-10.3.jar",
+      "version": "10.3",
+      "sha256": "ca5f2fe250f7a7883d344ff69f44a102b3c8f4d3a9fe6027752d7c868e8ec7be",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/treeharvester-26.2.0-10.3.jar"
     },
     {
       "file": "twigs-3.1.0.jar",
