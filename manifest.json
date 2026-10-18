@@ -36,6 +36,13 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Ecologics-NeoFab-26.2-2.6.3.jar"
     },
     {
+      "file": "FarmersDelight-26.2-3.6.28+refabricated.jar",
+      "version": "26.2-3.6.28+refabricated",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/FarmersDelight-26.2-3.6.28+refabricated.jar",
+      "sha256": "9665e3bd292e6ab0152c353adb7dc9e094b40d5c4e941fb7d2a906bef3aa4304",
+      "id": "farmersdelight"
+    },
+    {
       "file": "FlowerPatch-fabric-26.2-15.0.0.jar",
       "version": "15.0.0",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/FlowerPatch-fabric-26.2-15.0.0.jar",
@@ -118,6 +125,13 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Patchouli-26.2-94-FABRIC.jar",
       "sha256": "5239cff0c5007d5d0e942a21a8502792c12e7ac2c7ffd617ba1d8c58ced477ae",
       "id": "patchouli"
+    },
+    {
+      "file": "SubtleEffects-fabric-26.2-1.15.1.jar",
+      "version": "1.15.1",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/SubtleEffects-fabric-26.2-1.15.1.jar",
+      "sha256": "584feac8e7848754ee952cc057fe9f04ceac9092c242eb15a107cd3984a919a8",
+      "id": "subtle_effects"
     },
     {
       "file": "ToolBelt-fabric-26.2-2.10.0.jar",
@@ -512,6 +526,13 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/freecam-fabric-1.5.0+mc26.2.jar"
     },
     {
+      "file": "friendsandfoes-fabric-5.0.2+mc26.2.jar",
+      "version": "5.0.2",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/friendsandfoes-fabric-5.0.2+mc26.2.jar",
+      "sha256": "3a190b9a6d95eb7c1056f3c589d09c6ed0ae29029fdba66d1f7d513653a5cfd7",
+      "id": "friendsandfoes"
+    },
+    {
       "file": "giant_brown_mushroom-fabric-26.2-1.0.1.jar",
       "version": "1.0.1",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/giant_brown_mushroom-fabric-26.2-1.0.1.jar",
@@ -891,9 +912,9 @@
     },
     {
       "file": "wolfgangrenderfix.jar",
-      "version": "1.0.20",
+      "version": "1.0.21",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgangrenderfix.jar",
-      "sha256": "2bac55999e2cb5cc900ea2b935e73447d6f53530f9b8a27a014337b4c549baf8",
+      "sha256": "01af6bdfb6e24c957b7085a624186135f4d9030f721333892a359c6ae5b4ccae",
       "id": "wolfgangrenderfix"
     },
     {
@@ -909,27 +930,6 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/zetter-0.21.7-fabric.jar",
       "sha256": "c6e73d35da22308c0daf01dcb6a143f6fe138586206daedd0719e7d673f88a69",
       "id": "zetter"
-    },
-    {
-      "file": "FarmersDelight-26.2-3.6.28+refabricated.jar",
-      "version": "26.2-3.6.28+refabricated",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/FarmersDelight-26.2-3.6.28+refabricated.jar",
-      "sha256": "9665e3bd292e6ab0152c353adb7dc9e094b40d5c4e941fb7d2a906bef3aa4304",
-      "id": "farmersdelight"
-    },
-    {
-      "file": "friendsandfoes-fabric-5.0.2+mc26.2.jar",
-      "version": "5.0.2",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/friendsandfoes-fabric-5.0.2+mc26.2.jar",
-      "sha256": "3a190b9a6d95eb7c1056f3c589d09c6ed0ae29029fdba66d1f7d513653a5cfd7",
-      "id": "friendsandfoes"
-    },
-    {
-      "file": "SubtleEffects-fabric-26.2-1.15.1.jar",
-      "version": "1.15.1",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/SubtleEffects-fabric-26.2-1.15.1.jar",
-      "sha256": "584feac8e7848754ee952cc057fe9f04ceac9092c242eb15a107cd3984a919a8",
-      "id": "subtle_effects"
     }
   ],
   "packs": [
