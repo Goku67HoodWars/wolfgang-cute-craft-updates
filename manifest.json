@@ -120,13 +120,6 @@
       "id": "patchouli"
     },
     {
-      "file": "SereneSeasons-fabric-26.2-26.1.2.0.6.jar",
-      "version": "26.1.2.0.6",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/SereneSeasons-fabric-26.2-26.1.2.0.6.jar",
-      "sha256": "a6b117c1b9370dad3c74ea54dc8962683f73845673178b49b84a6da437d4e781",
-      "id": "sereneseasons"
-    },
-    {
       "file": "ToolBelt-fabric-26.2-2.10.0.jar",
       "version": "26.2-2.10.0",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/ToolBelt-fabric-26.2-2.10.0.jar",
@@ -778,13 +771,6 @@
       "id": "porting_lib_resources"
     },
     {
-      "file": "sereneseasonsphc2crops-fabric-26.2-1.0.0.jar",
-      "version": "1.0.0-fabric-26.2",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/sereneseasonsphc2crops-fabric-26.2-1.0.0.jar",
-      "sha256": "cdbba6b0ba0992abe8c43d02f0bcadd5cf6b3a570624e0e7544fc55ffcafe8bc",
-      "id": "sereneseasonsphc2crops"
-    },
-    {
       "file": "shroom_dealers-fabric-26.2-2.0.2.jar",
       "version": "2.0.2",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/shroom_dealers-fabric-26.2-2.0.2.jar",
@@ -912,9 +898,9 @@
     },
     {
       "file": "wolfgangupdater.jar",
-      "version": "1.0.10",
+      "version": "1.0.11",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgangupdater.jar",
-      "sha256": "e2d9fd1b8996532fc893478a7201865cd08f4ebc5cedc53b59967e4a2c066636",
+      "sha256": "cb76ad4b6ca2c51d6c94d8a430557ff04b25133036244ad80b2087e14273fd93",
       "id": "wolfgangupdater"
     },
     {
@@ -944,5 +930,9 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgang_pams_worldgen.zip",
       "sha256": "de5677bccdce27c827f55acb56d6ad31419451a1f850e5377cad4a2534f27b5c"
     }
+  ],
+  "remove": [
+    "sereneseasons",
+    "sereneseasonsphc2crops"
   ]
 }
