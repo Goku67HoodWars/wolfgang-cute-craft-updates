@@ -1040,7 +1040,7 @@
       "file": "sophisticatedcore-26.2-1.2.9.21.9999-SNAPSHOT.jar",
       "version": "26.2-1.2.9.21.9999",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/sophisticatedcore-26.2-1.2.9.21.9999-SNAPSHOT.jar",
-      "sha256": "1ad7cb00ba7413e4d3f3711b7a59a9e6933dbf82fd071ef76b137f86f44eebe7",
+      "sha256": "1c5312787aa157096851b8fc6bb987578097970f509f650e193a9de04d072e2a",
       "id": "sophisticatedcore"
     },
     {
@@ -1136,9 +1136,9 @@
     },
     {
       "file": "wolfgangrenderfix.jar",
-      "version": "1.0.24",
+      "version": "1.0.25",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgangrenderfix.jar",
-      "sha256": "3d719e02002b7b8ff4bdaa96f22f342697f04831a28cecf017056abdd9252be2",
+      "sha256": "71b1c208998f45c5156463e2198f494a63b22f7b109aa452f8fd1faed06d4844",
       "id": "wolfgangrenderfix"
     },
     {
