@@ -1,251 +1,6 @@
 {
   "mods": [
     {
-      "id": "adorn",
-      "file": "Adorn-9.0.0+26.2-fabric.jar",
-      "version": "9.0.0+26.2",
-      "sha256": "20d2f25139d787f8335b42371d62579d434760c1a3de8d85fc67330fb3ec6f72",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Adorn-9.0.0+26.2-fabric.jar"
-    },
-    {
-      "file": "Bakery-fabric-2.1.7.jar",
-      "version": "2.1.7",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Bakery-fabric-2.1.7.jar",
-      "sha256": "85789ccbef3ea63629f6efc5f544092b8d1f0b73e0ee29febde3583ccf52127f",
-      "id": "bakery"
-    },
-    {
-      "file": "BiomesOPlenty-fabric-26.2-26.2.0.0.28.jar",
-      "version": "26.2.0.0.28",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/BiomesOPlenty-fabric-26.2-26.2.0.0.28.jar",
-      "sha256": "8dab2e685e9e2f78aa227568e408e9d45abbfa26b1083c1565d3abece19a27d1",
-      "id": "biomesoplenty"
-    },
-    {
-      "file": "CNB-26.2-fabric-26.2-0.1.0.jar",
-      "version": "26.2-0.1.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/CNB-26.2-fabric-26.2-0.1.0.jar",
-      "sha256": "c2dc835211d985696c8570fd181b424ea1213f41e89eee1fa2a4fcab7ebadbf1",
-      "id": "cnb"
-    },
-    {
-      "file": "Chipped-5.0.0.jar",
-      "version": "5.0.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Chipped-5.0.0.jar",
-      "sha256": "1ffc6049ad90f81c980a09b246fd00438754ff1d46dca04911e689e71ad97ae4",
-      "id": "chipped"
-    },
-    {
-      "id": "ecologics",
-      "file": "Ecologics-NeoFab-26.2-2.6.3.jar",
-      "version": "2.6.3",
-      "sha256": "ff473fd1df5290b7d683ed33618e70cf46c93d244dc2c09191fa7f866abc18e9",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Ecologics-NeoFab-26.2-2.6.3.jar"
-    },
-    {
-      "id": "explorerscompass",
-      "file": "ExplorersCompass-26.2-2.5.1-fabric.jar",
-      "version": "26.2-2.5.1-fabric",
-      "sha256": "17bd0478290f3c38853b105029aa61fa3094338234b34f08b516331e73115f74",
-      "url": "https://edge.forgecdn.net/files/8262/912/ExplorersCompass-26.2-2.5.1-fabric.jar",
-      "cfManaged": true
-    },
-    {
-      "file": "FarmersDelight-26.2-3.6.28+refabricated.jar",
-      "version": "26.2-3.6.28+refabricated",
-      "url": "https://edge.forgecdn.net/files/9090/141/FarmersDelight-26.2-3.6.28%2brefabricated.jar",
-      "sha256": "9665e3bd292e6ab0152c353adb7dc9e094b40d5c4e941fb7d2a906bef3aa4304",
-      "id": "farmersdelight",
-      "cfManaged": true
-    },
-    {
-      "file": "FlowerPatch-fabric-26.2-15.0.0.jar",
-      "version": "15.0.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/FlowerPatch-fabric-26.2-15.0.0.jar",
-      "sha256": "fe6685b62aa39237b16eb434242c6fbe510ab7bbfa9d72b736f7c41c94b59974",
-      "id": "flowerpatch"
-    },
-    {
-      "id": "ironchest",
-      "file": "IronChests-3.0.0+26.2-Fabric.jar",
-      "version": "3.0.0+26.2",
-      "sha256": "c4ccef6d50c4552d9eb1b19402c0dc9cc754b900cbcd75e57998ed06d5dcf1e1",
-      "url": "https://edge.forgecdn.net/files/9163/530/IronChests-3.0.0%2b26.2-Fabric.jar",
-      "cfManaged": true
-    },
-    {
-      "id": "ironcore",
-      "file": "IronCore-1.0.0+26.2-Fabric.jar",
-      "version": "1.0.0+26.2",
-      "sha256": "a1a5f96d6ec7d0878aaacbbe33e2333379877cd02baa155d614f57cb63779355",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/IronCore-1.0.0+26.2-Fabric.jar",
-      "cfManaged": true
-    },
-    {
-      "file": "JadeAddons-26.2-Fabric-26.0.1.jar",
-      "version": "26.0.1+fabric",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/JadeAddons-26.2-Fabric-26.0.1.jar",
-      "sha256": "ce8dbbf2350a862ce43aa3e2e34dfb7dea2ce907d502036371e868b13bfa65f4",
-      "id": "jadeaddons"
-    },
-    {
-      "file": "JustEnoughProfessions-fabric-26.2-12.0.0.jar",
-      "version": "12.0.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/JustEnoughProfessions-fabric-26.2-12.0.0.jar",
-      "sha256": "70be1526544b092e19e7e0b76b3bffaf8418d125b579235b77036e227d3eb7f3",
-      "id": "justenoughprofessions"
-    },
-    {
-      "id": "jeresources",
-      "file": "JustEnoughResources-Fabric-26.2-1.11.0.44.jar",
-      "version": "1.11.0.44",
-      "sha256": "75de54c194d0d8737538abd4e55bdf60e5d04ac5532c8270513fc8343bfc0cf1",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/JustEnoughResources-Fabric-26.2-1.11.0.44.jar"
-    },
-    {
-      "file": "MOAdecor-ART-26.2-26.2-1.0.0.jar",
-      "version": "26.2-1.0.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-ART-26.2-26.2-1.0.0.jar",
-      "sha256": "7726d9d64498c8177042ab7ebf57e617e061ab5e939816a32c093b93c73fa8cd",
-      "id": "moa_decor_art"
-    },
-    {
-      "file": "MOAdecor-BATH-26.2-26.2-1.0.0.jar",
-      "version": "26.2-1.0.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-BATH-26.2-26.2-1.0.0.jar",
-      "sha256": "76e486c9688ae3a1a2f3a6e440ec12cbfa16a5a04bb6e2f869ae8cb5748818a7",
-      "id": "moa_decor_bath"
-    },
-    {
-      "file": "MOAdecor-COOKERY-26.2-26.2-1.0.0.jar",
-      "version": "26.2-1.0.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-COOKERY-26.2-26.2-1.0.0.jar",
-      "sha256": "63ab6ab40f2f9de8a37e9665cb1e3318bf3dbd8358207f996419bed411963ca2",
-      "id": "moa_decor_cookery"
-    },
-    {
-      "file": "MOAdecor-ELECTRONICS-26.2-26.2-1.0.0.jar",
-      "version": "26.2-1.0.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-ELECTRONICS-26.2-26.2-1.0.0.jar",
-      "sha256": "817b6ad490697e20408e60bccf7bb1241877b4a7f178ad320618970784d225a4",
-      "id": "moa_decor_electronics"
-    },
-    {
-      "file": "MOAdecor-GARDEN-26.2-26.2-1.0.0.jar",
-      "version": "26.2-1.0.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-GARDEN-26.2-26.2-1.0.0.jar",
-      "sha256": "514bde435c1718302e20c7d9b8f142076c7938bd1eabaaf3a23ac135caf8894a",
-      "id": "moa_decor_garden_"
-    },
-    {
-      "file": "MOAdecor-TOYS-26.2-26.2-1.0.0.jar",
-      "version": "26.2-1.0.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-TOYS-26.2-26.2-1.0.0.jar",
-      "sha256": "2a7ae8e1fb57f3b4c340f29144324d3054ab157a0e431e4af16d88c2307ee26e",
-      "id": "moa_decor_toys"
-    },
-    {
-      "id": "naturescompass",
-      "file": "NaturesCompass-26.2-2.5.1-fabric.jar",
-      "version": "26.2-2.5.1-fabric",
-      "sha256": "f7cdaffdbd2904f5e59d53b1f3631193b6f800e1e78722612c0de1eed8821965",
-      "url": "https://edge.forgecdn.net/files/8262/900/NaturesCompass-26.2-2.5.1-fabric.jar",
-      "cfManaged": true
-    },
-    {
-      "file": "Patchouli-26.2-94-FABRIC.jar",
-      "version": "26.2-94-fabric",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Patchouli-26.2-94-FABRIC.jar",
-      "sha256": "dd8e0e885727db20c4b458a2741cf211c9d275ed52fe6f9459a4570defc72311",
-      "id": "patchouli"
-    },
-    {
-      "id": "ribbits",
-      "file": "RibbitsRemastered-26.2-Fabric-1.0.1.jar",
-      "version": "1.0.1",
-      "sha256": "5da082a404130927df723eba42ad5f8255e02fbd204e18e9399726a4917299b1",
-      "url": "https://edge.forgecdn.net/files/9070/356/RibbitsRemastered-26.2-Fabric-1.0.1.jar",
-      "cfManaged": true
-    },
-    {
-      "file": "SubtleEffects-fabric-26.2-1.15.1.jar",
-      "version": "1.15.1",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/SubtleEffects-fabric-26.2-1.15.1.jar",
-      "sha256": "584feac8e7848754ee952cc057fe9f04ceac9092c242eb15a107cd3984a919a8",
-      "id": "subtle_effects",
-      "cfManaged": true
-    },
-    {
-      "file": "ToolBelt-fabric-26.2-2.10.0.jar",
-      "version": "26.2-2.10.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/ToolBelt-fabric-26.2-2.10.0.jar",
-      "sha256": "c3399fb15cdb334ec7fe40ce38f5c9e490fecd45b02b027dcbcce25e303debec",
-      "id": "toolbelt"
-    },
-    {
-      "file": "YungsApi-26.2-Fabric-6.1.3.jar",
-      "version": "26.2-Fabric-6.1.3",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsApi-26.2-Fabric-6.1.3.jar",
-      "sha256": "572fa9f671577e03b76b802785726b113dd264145b4570d7db4bfd5ecb489cc9",
-      "id": "yungsapi"
-    },
-    {
-      "file": "YungsBetterCaves-26.2-Fabric-4.1.2.jar",
-      "version": "26.2-Fabric-4.1.2",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterCaves-26.2-Fabric-4.1.2.jar",
-      "sha256": "94a9a3642a157479bedfe21d2f5fe9d576f0517d48b1ef21d74ac85cc2ed519c",
-      "id": "bettercaves"
-    },
-    {
-      "file": "YungsBetterDesertTemples-26.2-Fabric-5.1.1.jar",
-      "version": "26.2-Fabric-5.1.1",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterDesertTemples-26.2-Fabric-5.1.1.jar",
-      "sha256": "2bf5ec815fa591ad634a550d676816c6821a5e901b3b3876fc5678b572404b5d",
-      "id": "betterdeserttemples"
-    },
-    {
-      "file": "YungsBetterDungeons-26.2-Fabric-6.1.1.jar",
-      "version": "26.2-Fabric-6.1.1",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterDungeons-26.2-Fabric-6.1.1.jar",
-      "sha256": "b9478df9b7942dd669e6a9e75886982728d1a584ec8a36df6e8b6deace045d64",
-      "id": "betterdungeons"
-    },
-    {
-      "file": "YungsBetterJungleTemples-26.2-Fabric-4.1.1.jar",
-      "version": "26.2-Fabric-4.1.1",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterJungleTemples-26.2-Fabric-4.1.1.jar",
-      "sha256": "c6921c1706b3e80fa1ee87b4bbcd93133b6601602495f2cf59aefb0723db4fe0",
-      "id": "betterjungletemples"
-    },
-    {
-      "file": "YungsBetterMineshafts-26.2-Fabric-6.1.1.jar",
-      "version": "26.2-Fabric-6.1.1",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterMineshafts-26.2-Fabric-6.1.1.jar",
-      "sha256": "9f7743d88b66892612573c777cc085da02489d6b509d068b8793747e69dc00ff",
-      "id": "bettermineshafts"
-    },
-    {
-      "file": "YungsBetterStrongholds-26.2-Fabric-6.1.1.jar",
-      "version": "26.2-Fabric-6.1.1",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterStrongholds-26.2-Fabric-6.1.1.jar",
-      "sha256": "a0de69cc6404bb035708a77a26d3a87bc254602324d3f33db2fc486ded072811",
-      "id": "betterstrongholds"
-    },
-    {
-      "file": "YungsBetterWitchHuts-26.2-Fabric-5.1.1.jar",
-      "version": "26.2-Fabric-5.1.1",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterWitchHuts-26.2-Fabric-5.1.1.jar",
-      "sha256": "c8995bdcf2619987e7b9077757f4dc36abff12deddefdcd61130b994d7bc0a60",
-      "id": "betterwitchhuts"
-    },
-    {
-      "file": "YungsExtras-26.2-Fabric-6.1.0.jar",
-      "version": "26.2-Fabric-6.1.0",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsExtras-26.2-Fabric-6.1.0.jar",
-      "sha256": "43592e1a2b8e9c35e0d90191c6dcb3399fc72eb9fa3cf3179fe13b148f8b6f2b",
-      "id": "yungsextras"
-    },
-    {
       "file": "accessories-fabric-26.2-1.4.3-beta.jar",
       "version": "26.2-1.4.3-beta",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/accessories-fabric-26.2-1.4.3-beta.jar",
@@ -260,11 +15,32 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/additionallanterns-1.1.2-fabric-mc26.2.jar"
     },
     {
+      "id": "addonslib",
+      "file": "addonslib-fabric-26.2-1.0.jar",
+      "version": "26.2-1.0",
+      "url": "https://edge.forgecdn.net/files/8424/886/addonslib-fabric-26.2-1.0.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "adorn",
+      "file": "Adorn-9.0.0+26.2-fabric.jar",
+      "version": "9.0.0+26.2",
+      "sha256": "20d2f25139d787f8335b42371d62579d434760c1a3de8d85fc67330fb3ec6f72",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Adorn-9.0.0+26.2-fabric.jar"
+    },
+    {
       "file": "almostunified-fabric-26.2-0.0.0.jar",
       "version": "26.2-0.0.0",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/almostunified-fabric-26.2-0.0.0.jar",
       "sha256": "5f0a50afb3e0dec4670892d309f9f57a0224b6ebacf2d129e6ff98407975cd68",
       "id": "almostunified"
+    },
+    {
+      "id": "ambientsounds",
+      "file": "AmbientSounds_FABRIC_v6.3.6_mc26.2.jar",
+      "version": "6.3.6",
+      "url": "https://edge.forgecdn.net/files/8299/375/AmbientSounds_FABRIC_v6.3.6_mc26.2.jar",
+      "cfManaged": true
     },
     {
       "file": "amendments-26.2-2.1.10-fabric.jar",
@@ -288,6 +64,13 @@
       "id": "apexcore"
     },
     {
+      "id": "appleskin",
+      "file": "appleskin-fabric-mc26.2-3.0.10.jar",
+      "version": "3.0.10+mc26.2",
+      "url": "https://edge.forgecdn.net/files/8271/985/appleskin-fabric-mc26.2-3.0.10.jar",
+      "cfManaged": true
+    },
+    {
       "file": "aquaculture-fabric-2.8.9.jar",
       "version": "2.8.9",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/aquaculture-fabric-2.8.9.jar",
@@ -300,6 +83,13 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/aquaculturedelight-fabric-26.2-1.1.1.jar",
       "sha256": "80fc06080184f289a250bcf90d2de6eae0de178661b9ef77b938084f90e6e373",
       "id": "aquaculturedelight"
+    },
+    {
+      "id": "architectury",
+      "file": "architectury-fabric-21.1.12.jar",
+      "version": "21.1.12",
+      "url": "https://edge.forgecdn.net/files/9111/234/architectury-fabric-21.1.12.jar",
+      "cfManaged": true
     },
     {
       "file": "artifacts-fabric-15.2.0.jar",
@@ -324,12 +114,33 @@
       "cfManaged": true
     },
     {
+      "file": "Bakery-fabric-2.1.7.jar",
+      "version": "2.1.7",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Bakery-fabric-2.1.7.jar",
+      "sha256": "85789ccbef3ea63629f6efc5f544092b8d1f0b73e0ee29febde3583ccf52127f",
+      "id": "bakery"
+    },
+    {
+      "id": "balm",
+      "file": "balm-fabric-26.2-26.2.0.9.jar",
+      "version": "26.2.0.9",
+      "url": "https://edge.forgecdn.net/files/8969/716/balm-fabric-26.2-26.2.0.9.jar",
+      "cfManaged": true
+    },
+    {
       "id": "beautify",
       "file": "beautify-fabric-3.0.0+26.2.jar",
       "version": "3.0.0+26.2",
       "sha256": "dc418901b7b76f5685c4d8a5c7dc90ca077270555328c2af04e843197fca53d4",
       "url": "https://edge.forgecdn.net/files/9080/28/beautify-fabric-3.0.0%2b26.2.jar",
       "cfManaged": true
+    },
+    {
+      "file": "BiomesOPlenty-fabric-26.2-26.2.0.0.28.jar",
+      "version": "26.2.0.0.28",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/BiomesOPlenty-fabric-26.2-26.2.0.0.28.jar",
+      "sha256": "8dab2e685e9e2f78aa227568e408e9d45abbfa26b1083c1565d3abece19a27d1",
+      "id": "biomesoplenty"
     },
     {
       "file": "blocks-3.1.0+26.2.jar",
@@ -344,6 +155,20 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/blueprint-fabric-7.1.3-26.2-compat.jar",
       "sha256": "e1ea9be20eb85a0b7a41f391c7b0acc0dbc64a5604a79f0f3156332dd7f07e51",
       "id": "blueprint"
+    },
+    {
+      "id": "boatjump",
+      "file": "BoatJump-1.9.jar",
+      "version": "1.9",
+      "url": "https://edge.forgecdn.net/files/8164/591/BoatJump-1.9.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "bookshelf",
+      "file": "Bookshelf-fabric-MC26.2-26.2.0.4.jar",
+      "version": "26.2.0.4",
+      "url": "https://edge.forgecdn.net/files/8391/389/Bookshelf-fabric-MC26.2-26.2.0.4.jar",
+      "cfManaged": true
     },
     {
       "file": "botanypots-fabric-26.2.jar",
@@ -370,8 +195,7 @@
       "id": "c2me",
       "file": "c2me-fabric-mc26.2-0.4.2-alpha.0.60.jar",
       "version": "0.4.2-alpha.0.60+26.2",
-      "sha256": "6d9c3fd764c0e3dd94da59ab9bbd2aff7ca91b15cc235c418f5553e51d71ceed",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/c2me-fabric-mc26.2-0.4.2-alpha.0.60.jar",
+      "url": "https://edge.forgecdn.net/files/9147/576/c2me-fabric-mc26.2-0.4.2-alpha.0.60.jar",
       "cfManaged": true
     },
     {
@@ -382,6 +206,27 @@
       "id": "candlelight"
     },
     {
+      "id": "carryon",
+      "file": "carryon-fabric-26.2-2.11.2.jar",
+      "version": "2.11.2",
+      "url": "https://edge.forgecdn.net/files/8989/837/carryon-fabric-26.2-2.11.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "charmofundyingreborn",
+      "file": "CharmOfUndyingReborn-1.1.0-alpha.2.jar",
+      "version": "1.1.0-alpha.2",
+      "url": "https://edge.forgecdn.net/files/8997/862/CharmOfUndyingReborn-1.1.0-alpha.2.jar",
+      "cfManaged": true
+    },
+    {
+      "file": "Chipped-5.0.0.jar",
+      "version": "5.0.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Chipped-5.0.0.jar",
+      "sha256": "1ffc6049ad90f81c980a09b246fd00438754ff1d46dca04911e689e71ad97ae4",
+      "id": "chipped"
+    },
+    {
       "file": "chisels-and-bits-fabric-26.2.0-local-1.jar",
       "version": "26.2.0-local-1",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/chisels-and-bits-fabric-26.2.0-local-1.jar",
@@ -389,11 +234,39 @@
       "id": "chiselsandbits"
     },
     {
+      "id": "chunky",
+      "file": "Chunky-Fabric-1.5.3.jar",
+      "version": "1.5.3",
+      "url": "https://edge.forgecdn.net/files/8036/332/Chunky-Fabric-1.5.3.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "cloth-config",
+      "file": "cloth-config-26.2.155.jar",
+      "version": "26.2.155",
+      "url": "https://edge.forgecdn.net/files/8269/699/cloth-config-26.2.155.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "clumps",
+      "file": "Clumps-fabric-26.2-26.2.1.jar",
+      "version": "26.2.1",
+      "url": "https://edge.forgecdn.net/files/8262/615/Clumps-fabric-26.2-26.2.1.jar",
+      "cfManaged": true
+    },
+    {
       "id": "cluttered",
       "file": "cluttered-3.0.3-26.2.x-0.1.1-fabric-unofficial.jar",
       "version": "3.0.3-26.2.x-0.1.1-fabric-unofficial",
       "sha256": "8541413447118371570ba290f52189fc993ab9da1c1ef9a9d46bf5d586efd0ee",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/cluttered-3.0.3-26.2.x-0.1.1-fabric-unofficial.jar"
+    },
+    {
+      "file": "CNB-26.2-fabric-26.2-0.1.0.jar",
+      "version": "26.2-0.1.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/CNB-26.2-fabric-26.2-0.1.0.jar",
+      "sha256": "c2dc835211d985696c8570fd181b424ea1213f41e89eee1fa2a4fcab7ebadbf1",
+      "id": "cnb"
     },
     {
       "file": "cobweb-fabric-26.2-1.4.0.jar",
@@ -423,6 +296,20 @@
       "version": "1.1.14",
       "sha256": "319709c5cc920605c5eb89d8a5be16daf9e8d8d33262b5ebe3d4aec39b1ca8d0",
       "url": "https://edge.forgecdn.net/files/8393/884/connectedglass-1.1.14-fabric-mc26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "continuity",
+      "file": "continuity-3.0.1+26.2.jar",
+      "version": "3.0.1+26.2",
+      "url": "https://edge.forgecdn.net/files/8261/100/continuity-3.0.1%2b26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "controlling",
+      "file": "Controlling-fabric-26.2-26.2.4.jar",
+      "version": "26.2.4",
+      "url": "https://edge.forgecdn.net/files/8925/564/Controlling-fabric-26.2-26.2.4.jar",
       "cfManaged": true
     },
     {
@@ -461,6 +348,27 @@
       "id": "cozyhome"
     },
     {
+      "id": "craftingtweaks",
+      "file": "craftingtweaks-fabric-26.2-26.2.0.3.jar",
+      "version": "26.2.0.3",
+      "url": "https://edge.forgecdn.net/files/8697/33/craftingtweaks-fabric-26.2-26.2.0.3.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "creativecore",
+      "file": "CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+      "version": "2.14.16",
+      "url": "https://edge.forgecdn.net/files/8299/367/CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "cristellib",
+      "file": "cristellib-fabric-26.2-3.1.13.jar",
+      "version": "3.1.13",
+      "url": "https://edge.forgecdn.net/files/8921/491/cristellib-fabric-26.2-3.1.13.jar",
+      "cfManaged": true
+    },
+    {
       "file": "ding_reborn-fabric-26.2-1.0.0.jar",
       "version": "26.2-1.0.0",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/ding_reborn-fabric-26.2-1.0.0.jar",
@@ -482,6 +390,20 @@
       "id": "duckling"
     },
     {
+      "id": "ecologics",
+      "file": "Ecologics-NeoFab-26.2-2.6.3.jar",
+      "version": "2.6.3",
+      "sha256": "ff473fd1df5290b7d683ed33618e70cf46c93d244dc2c09191fa7f866abc18e9",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Ecologics-NeoFab-26.2-2.6.3.jar"
+    },
+    {
+      "id": "enchdesc",
+      "file": "EnchantmentDescriptions-fabric-MC26.2-26.2.0.2.jar",
+      "version": "26.2.0.2",
+      "url": "https://edge.forgecdn.net/files/8692/955/EnchantmentDescriptions-fabric-MC26.2-26.2.0.2.jar",
+      "cfManaged": true
+    },
+    {
       "file": "enderpalette-0.1.1.jar",
       "version": "0.1.1",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/enderpalette-0.1.1.jar",
@@ -499,24 +421,50 @@
       "id": "entity_model_features",
       "file": "entity_model_features-3.3.12-26.2-fabric.jar",
       "version": "3.3.12",
-      "sha256": "3a45fb9b028f6e2303438c74e91410223e8af503637956d876a75dd4f9af4af5",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/entity_model_features-3.3.12-26.2-fabric.jar",
+      "url": "https://edge.forgecdn.net/files/9188/545/entity_model_features-3.3.12-26.2-fabric.jar",
       "cfManaged": true
     },
     {
       "id": "entity_texture_features",
       "file": "entity_texture_features-7.2.6-26.2-fabric.jar",
       "version": "7.2.6",
-      "sha256": "2e0118df6a1610d6712a8f05e87b9dd2a8ab06d77057243777c30fd664aed905",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/entity_texture_features-7.2.6-26.2-fabric.jar",
+      "url": "https://edge.forgecdn.net/files/9188/427/entity_texture_features-7.2.6-26.2-fabric.jar",
       "cfManaged": true
     },
     {
       "id": "entityculling",
       "file": "entityculling-fabric-1.11.3-mc26.2.jar",
       "version": "1.11.3",
-      "sha256": "8f977af47b8d0531da81d1801fbe6bfcaa2f1f585a6ea4dccf9885da42e6cf89",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/entityculling-fabric-1.11.3-mc26.2.jar",
+      "url": "https://edge.forgecdn.net/files/9100/313/entityculling-fabric-1.11.3-mc26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "essential-container",
+      "file": "Essential_1-5-1_fabric_26-2.jar",
+      "version": "1.0.0",
+      "url": "https://edge.forgecdn.net/files/9189/688/Essential_1-5-1_fabric_26-2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "explorerscompass",
+      "file": "ExplorersCompass-26.2-2.5.1-fabric.jar",
+      "version": "26.2-2.5.1-fabric",
+      "sha256": "17bd0478290f3c38853b105029aa61fa3094338234b34f08b516331e73115f74",
+      "url": "https://edge.forgecdn.net/files/8262/912/ExplorersCompass-26.2-2.5.1-fabric.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "fabric-api",
+      "file": "fabric-api-0.161.0+26.2.jar",
+      "version": "0.161.0+26.2",
+      "url": "https://edge.forgecdn.net/files/8913/446/fabric-api-0.161.0%2b26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "fabric-language-kotlin",
+      "file": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+      "version": "1.14.2+kotlin.2.4.21",
+      "url": "https://edge.forgecdn.net/files/9106/173/fabric-language-kotlin-1.14.2%2bkotlin.2.4.21.jar",
       "cfManaged": true
     },
     {
@@ -525,6 +473,13 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/fairylights-26.2-1.2.3-26.2.jar",
       "sha256": "02354d6408e8fd6fe8b68e57a19b88a0299d5b7a7bc38e0e6f83710b1e316ea9",
       "id": "fairylights"
+    },
+    {
+      "id": "fallingleaves",
+      "file": "fallingleaves-2.0.7+26.1.jar",
+      "version": "2.0.7",
+      "url": "https://edge.forgecdn.net/files/8180/15/fallingleaves-2.0.7%2b26.1.jar",
+      "cfManaged": true
     },
     {
       "file": "fantasyfurniture-fabric-26.2.jar",
@@ -590,11 +545,26 @@
       "id": "farm_and_charm"
     },
     {
+      "file": "FarmersDelight-26.2-3.6.28+refabricated.jar",
+      "version": "26.2-3.6.28+refabricated",
+      "url": "https://edge.forgecdn.net/files/9090/141/FarmersDelight-26.2-3.6.28%2brefabricated.jar",
+      "sha256": "9665e3bd292e6ab0152c353adb7dc9e094b40d5c4e941fb7d2a906bef3aa4304",
+      "id": "farmersdelight",
+      "cfManaged": true
+    },
+    {
       "file": "fast-leaf-decay-1.2.0-FABRIC.jar",
       "version": "1.2.0-FABRIC",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/fast-leaf-decay-1.2.0-FABRIC.jar",
       "sha256": "d1bd6c98a6f1d181dd509c64416f013b6b2d81ec74b8ffc6bf0b5b410f504e32",
       "id": "fast-leaf-decay"
+    },
+    {
+      "id": "ferritecore",
+      "file": "ferritecore-9.0.0-fabric.jar",
+      "version": "9.0.0",
+      "url": "https://edge.forgecdn.net/files/7806/40/ferritecore-9.0.0-fabric.jar",
+      "cfManaged": true
     },
     {
       "file": "floral_tonics_and_tinctures-2.2.226.2-fabric-alpha.jar",
@@ -611,11 +581,45 @@
       "id": "acmc"
     },
     {
+      "file": "FlowerPatch-fabric-26.2-15.0.0.jar",
+      "version": "15.0.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/FlowerPatch-fabric-26.2-15.0.0.jar",
+      "sha256": "fe6685b62aa39237b16eb434242c6fbe510ab7bbfa9d72b736f7c41c94b59974",
+      "id": "flowerpatch"
+    },
+    {
+      "id": "flowerymooblooms",
+      "file": "flowerymooblooms-fabric-3.0.3+mc26.2.jar",
+      "version": "3.0.3",
+      "url": "https://edge.forgecdn.net/files/8299/159/flowerymooblooms-fabric-3.0.3%2bmc26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "forgeconfigapiport",
+      "file": "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "version": "26.2.1",
+      "url": "https://edge.forgecdn.net/files/8292/30/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "framework",
+      "file": "framework-fabric-26.2-0.13.26.jar",
+      "version": "0.13.26",
+      "url": "https://edge.forgecdn.net/files/8403/587/framework-fabric-26.2-0.13.26.jar",
+      "cfManaged": true
+    },
+    {
       "id": "freecam",
       "file": "freecam-fabric-1.5.0+mc26.2.jar",
       "version": "1.5.0",
-      "sha256": "d348df0489f3236b98a202ae5268196ec373f7b2bfebe48b8aa8a003380793a2",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/freecam-fabric-1.5.0+mc26.2.jar",
+      "url": "https://edge.forgecdn.net/files/9188/995/freecam-fabric-1.5.0%2bmc26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "friendlyfire",
+      "file": "FriendlyFire-fabric-MC26.2-26.2.0.1.jar",
+      "version": "26.2.0.1",
+      "url": "https://edge.forgecdn.net/files/8416/645/FriendlyFire-fabric-MC26.2-26.2.0.1.jar",
       "cfManaged": true
     },
     {
@@ -624,6 +628,34 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/friendsandfoes-fabric-5.0.2+mc26.2.jar",
       "sha256": "742ef549dfaf3aa388eaa2133c1d9770faa396d6efe714dec49f2a5b29f618aa",
       "id": "friendsandfoes"
+    },
+    {
+      "id": "fusion",
+      "file": "fusion-1.3.16-fabric-mc26.2.jar",
+      "version": "1.3.16",
+      "url": "https://edge.forgecdn.net/files/9070/337/fusion-1.3.16-fabric-mc26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "fzzy_config",
+      "file": "fzzy_config-0.7.7+26.2.jar",
+      "version": "0.7.7+26.2",
+      "url": "https://edge.forgecdn.net/files/8883/836/fzzy_config-0.7.7%2b26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "geckolib",
+      "file": "geckolib-fabric-26.2-5.5.5.jar",
+      "version": "5.5.5",
+      "url": "https://edge.forgecdn.net/files/8819/17/geckolib-fabric-26.2-5.5.5.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "ghosts",
+      "file": "Ghosts.jar",
+      "version": "1.0.0",
+      "url": "https://edge.forgecdn.net/files/8757/20/Ghosts.jar",
+      "cfManaged": true
     },
     {
       "file": "giant_brown_mushroom-fabric-26.2-1.0.1.jar",
@@ -645,6 +677,13 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/giant_swamp_tree-fabric-26.2-1.0.1.jar",
       "sha256": "2410b5cf2e1666c79d5f3db7ddaedc936c5c8a78f3b22beb1ca500df72e3fe7d",
       "id": "giant_swamp_tree"
+    },
+    {
+      "id": "glitchcore",
+      "file": "GlitchCore-fabric-26.2-26.2.0.0.0.jar",
+      "version": "26.2.0.0.0",
+      "url": "https://edge.forgecdn.net/files/8332/872/GlitchCore-fabric-26.2-26.2.0.0.0.jar",
+      "cfManaged": true
     },
     {
       "id": "goblintraders",
@@ -711,11 +750,54 @@
       "id": "immersive_weathering"
     },
     {
+      "id": "inventoryprofilesnext",
+      "file": "InventoryProfilesNext-fabric-26.2-2.3.8.jar",
+      "version": "2.3.8",
+      "url": "https://edge.forgecdn.net/files/8990/407/InventoryProfilesNext-fabric-26.2-2.3.8.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "iris",
+      "file": "iris-fabric-1.11.4+mc26.2.jar",
+      "version": "1.11.4+mc26.2",
+      "url": "https://edge.forgecdn.net/files/8868/971/iris-fabric-1.11.4%2bmc26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "ironchest",
+      "file": "IronChests-3.0.0+26.2-Fabric.jar",
+      "version": "3.0.0+26.2",
+      "sha256": "c4ccef6d50c4552d9eb1b19402c0dc9cc754b900cbcd75e57998ed06d5dcf1e1",
+      "url": "https://edge.forgecdn.net/files/9163/530/IronChests-3.0.0%2b26.2-Fabric.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "ironcore",
+      "file": "IronCore-1.0.0+26.2-Fabric.jar",
+      "version": "1.0.0+26.2",
+      "url": "https://edge.forgecdn.net/files/9163/508/IronCore-1.0.0%2b26.2-Fabric.jar",
+      "cfManaged": true
+    },
+    {
       "file": "item_abilities-3.1.0+26.2.jar",
       "version": "3.1.0+26.2",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/item_abilities-3.1.0%2B26.2.jar",
       "sha256": "d155bf4576d64eec5f33178e59b9e8e25196c4804c3c3426aa6b19b048b0b57d",
       "id": "porting_lib_item_abilities"
+    },
+    {
+      "id": "jade",
+      "file": "Jade-mc26.2-Fabric-26.2.11.jar",
+      "version": "26.2.11+fabric",
+      "url": "https://edge.forgecdn.net/files/8650/785/Jade-mc26.2-Fabric-26.2.11.jar",
+      "cfManaged": true
+    },
+    {
+      "file": "JadeAddons-26.2-Fabric-26.0.1.jar",
+      "version": "26.0.1+fabric",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/JadeAddons-26.2-Fabric-26.0.1.jar",
+      "sha256": "ce8dbbf2350a862ce43aa3e2e34dfb7dea2ce907d502036371e868b13bfa65f4",
+      "id": "jadeaddons"
     },
     {
       "file": "jearchaeology-fabric-26.2.jar",
@@ -735,8 +817,7 @@
       "id": "jei",
       "file": "jei-26.2-fabric-30.47.0.238.jar",
       "version": "30.47.0.238",
-      "sha256": "723a67773795d7cdee7d999211585f272d0b32835e6410d91f5c39cf9f911574",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/jei-26.2-fabric-30.47.0.238.jar",
+      "url": "https://edge.forgecdn.net/files/9243/162/jei-26.2-fabric-30.47.0.238.jar",
       "cfManaged": true
     },
     {
@@ -754,11 +835,59 @@
       "id": "justenoughbreeding"
     },
     {
+      "file": "JustEnoughProfessions-fabric-26.2-12.0.0.jar",
+      "version": "12.0.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/JustEnoughProfessions-fabric-26.2-12.0.0.jar",
+      "sha256": "70be1526544b092e19e7e0b76b3bffaf8418d125b579235b77036e227d3eb7f3",
+      "id": "justenoughprofessions"
+    },
+    {
+      "id": "jeresources",
+      "file": "JustEnoughResources-Fabric-26.2-1.11.0.44.jar",
+      "version": "1.11.0.44",
+      "sha256": "75de54c194d0d8737538abd4e55bdf60e5d04ac5532c8270513fc8343bfc0cf1",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/JustEnoughResources-Fabric-26.2-1.11.0.44.jar"
+    },
+    {
       "id": "justmobheads",
       "file": "justmobheads-26.2.0-9.6.jar",
       "version": "9.6",
-      "sha256": "63d7c13b65f119e5c090ca234a08bd62a18b21e5d7410d2ffe8cb0e755becaa8",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/justmobheads-26.2.0-9.6.jar",
+      "url": "https://edge.forgecdn.net/files/9183/977/justmobheads-26.2.0-9.6.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "justplayerheads",
+      "file": "justplayerheads-26.2.0-4.5.jar",
+      "version": "4.5",
+      "url": "https://edge.forgecdn.net/files/9033/781/justplayerheads-26.2.0-4.5.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "justzoom",
+      "file": "justzoom_fabric_3.0.1_MC_26.2.jar",
+      "version": "3.0.1",
+      "url": "https://edge.forgecdn.net/files/9062/536/justzoom_fabric_3.0.1_MC_26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "konkrete",
+      "file": "konkrete_fabric_1.11.1_MC_26.2.jar",
+      "version": "1.11.1",
+      "url": "https://edge.forgecdn.net/files/8321/891/konkrete_fabric_1.11.1_MC_26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "krypton",
+      "file": "krypton-0.3.1.jar",
+      "version": "0.3.1",
+      "url": "https://edge.forgecdn.net/files/8433/993/krypton-0.3.1.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "lambdynlights",
+      "file": "lambdynamiclights-4.12.4+26.2.jar",
+      "version": "4.12.4+26.2",
+      "url": "https://edge.forgecdn.net/files/8780/301/lambdynamiclights-4.12.4%2b26.2.jar",
       "cfManaged": true
     },
     {
@@ -767,6 +896,20 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/level_events-3.1.0%2B26.2.jar",
       "sha256": "4d784951ce635eff5c1d0e15eb9c42e34aee5041416dc18b5b049779ade57532",
       "id": "porting_lib_level_events"
+    },
+    {
+      "id": "libipn",
+      "file": "libIPN-fabric-26.2-6.9.0.jar",
+      "version": "6.9.0",
+      "url": "https://edge.forgecdn.net/files/8990/256/libIPN-fabric-26.2-6.9.0.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "lithium",
+      "file": "lithium-fabric-0.25.3+mc26.2.jar",
+      "version": "0.25.3+mc26.2",
+      "url": "https://edge.forgecdn.net/files/8533/307/lithium-fabric-0.25.3%2bmc26.2.jar",
+      "cfManaged": true
     },
     {
       "file": "loot-3.1.0+26.2.jar",
@@ -821,6 +964,13 @@
       "cfManaged": true
     },
     {
+      "id": "mcwpaintings",
+      "file": "mcw-paintings-1.1.0-mc26.2fabric.jar",
+      "version": "1.1.0",
+      "url": "https://edge.forgecdn.net/files/8286/489/mcw-paintings-1.1.0-mc26.2fabric.jar",
+      "cfManaged": true
+    },
+    {
       "id": "mcwpaths",
       "file": "mcw-paths-1.1.1-mc26.2fabric.jar",
       "version": "1.1.1",
@@ -869,11 +1019,67 @@
       "cfManaged": true
     },
     {
+      "id": "mezz_config",
+      "file": "mezz_config-26.2-fabric-0.6.8.jar",
+      "version": "0.6.8",
+      "url": "https://edge.forgecdn.net/files/9048/673/mezz_config-26.2-fabric-0.6.8.jar",
+      "cfManaged": true
+    },
+    {
       "file": "mineshaftfix-1.0.jar",
       "version": "1.0",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/mineshaftfix-1.0.jar",
       "sha256": "34b8d2f17edc3993d32ad22701b212f0c11d88920c47501a5d5c65fd9acc909e",
       "id": "mineshaftfix"
+    },
+    {
+      "file": "MOAdecor-ART-26.2-26.2-1.0.0.jar",
+      "version": "26.2-1.0.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-ART-26.2-26.2-1.0.0.jar",
+      "sha256": "7726d9d64498c8177042ab7ebf57e617e061ab5e939816a32c093b93c73fa8cd",
+      "id": "moa_decor_art"
+    },
+    {
+      "file": "MOAdecor-BATH-26.2-26.2-1.0.0.jar",
+      "version": "26.2-1.0.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-BATH-26.2-26.2-1.0.0.jar",
+      "sha256": "76e486c9688ae3a1a2f3a6e440ec12cbfa16a5a04bb6e2f869ae8cb5748818a7",
+      "id": "moa_decor_bath"
+    },
+    {
+      "file": "MOAdecor-COOKERY-26.2-26.2-1.0.0.jar",
+      "version": "26.2-1.0.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-COOKERY-26.2-26.2-1.0.0.jar",
+      "sha256": "63ab6ab40f2f9de8a37e9665cb1e3318bf3dbd8358207f996419bed411963ca2",
+      "id": "moa_decor_cookery"
+    },
+    {
+      "file": "MOAdecor-ELECTRONICS-26.2-26.2-1.0.0.jar",
+      "version": "26.2-1.0.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-ELECTRONICS-26.2-26.2-1.0.0.jar",
+      "sha256": "817b6ad490697e20408e60bccf7bb1241877b4a7f178ad320618970784d225a4",
+      "id": "moa_decor_electronics"
+    },
+    {
+      "file": "MOAdecor-GARDEN-26.2-26.2-1.0.0.jar",
+      "version": "26.2-1.0.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-GARDEN-26.2-26.2-1.0.0.jar",
+      "sha256": "514bde435c1718302e20c7d9b8f142076c7938bd1eabaaf3a23ac135caf8894a",
+      "id": "moa_decor_garden_"
+    },
+    {
+      "file": "MOAdecor-TOYS-26.2-26.2-1.0.0.jar",
+      "version": "26.2-1.0.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/MOAdecor-TOYS-26.2-26.2-1.0.0.jar",
+      "sha256": "2a7ae8e1fb57f3b4c340f29144324d3054ab157a0e431e4af16d88c2307ee26e",
+      "id": "moa_decor_toys"
+    },
+    {
+      "id": "modmenu",
+      "file": "modmenu-20.0.3.jar",
+      "version": "20.0.3",
+      "url": "https://edge.forgecdn.net/files/8966/634/modmenu-20.0.3.jar",
+      "cfManaged": true
     },
     {
       "file": "moonlight-26.2-4.1.0-fabric.jar",
@@ -883,11 +1089,26 @@
       "id": "moonlight"
     },
     {
+      "id": "mousetweaks",
+      "file": "MouseTweaks-fabric-mc26.2-2.31.jar",
+      "version": "2.31",
+      "url": "https://edge.forgecdn.net/files/8260/318/MouseTweaks-fabric-mc26.2-2.31.jar",
+      "cfManaged": true
+    },
+    {
       "file": "mushroom_villager_trader-fabric-26.2-2.0.0.jar",
       "version": "2.0.1",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/mushroom_villager_trader-fabric-26.2-2.0.0.jar",
       "sha256": "9df27a8e7c6e2f944303d9b8c784359787b1d06b89f854dda5380d2210d8d54e",
       "id": "mushroom_villager_trader"
+    },
+    {
+      "id": "naturescompass",
+      "file": "NaturesCompass-26.2-2.5.1-fabric.jar",
+      "version": "26.2-2.5.1-fabric",
+      "sha256": "f7cdaffdbd2904f5e59d53b1f3631193b6f800e1e78722612c0de1eed8821965",
+      "url": "https://edge.forgecdn.net/files/8262/900/NaturesCompass-26.2-2.5.1-fabric.jar",
+      "cfManaged": true
     },
     {
       "file": "neapolitan-fabric-6.1.0-26.2-port.jar",
@@ -916,6 +1137,13 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/night-lights-1.3.1.jar",
       "sha256": "1fa7c329af5b3b1aed278b4a6666ba8c81701044e49fc28c150490223728d6a9",
       "id": "nightlights"
+    },
+    {
+      "id": "noisium",
+      "file": "noisium-fabric-2.8.5+mc26.2-pre-2.jar",
+      "version": "2.8.5+mc26.2-pre-2",
+      "url": "https://edge.forgecdn.net/files/8264/767/noisium-fabric-2.8.5%2bmc26.2-pre-2.jar",
+      "cfManaged": true
     },
     {
       "file": "owo-lib-0.13.1+26.2.jar",
@@ -953,6 +1181,27 @@
       "id": "pamhc2trees"
     },
     {
+      "id": "particular",
+      "file": "particular-26.2-Fabric-1.5.7.jar",
+      "version": "1.5.7",
+      "url": "https://edge.forgecdn.net/files/8662/712/particular-26.2-Fabric-1.5.7.jar",
+      "cfManaged": true
+    },
+    {
+      "file": "Patchouli-26.2-94-FABRIC.jar",
+      "version": "26.2-94-fabric",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/Patchouli-26.2-94-FABRIC.jar",
+      "sha256": "dd8e0e885727db20c4b458a2741cf211c9d275ed52fe6f9459a4570defc72311",
+      "id": "patchouli"
+    },
+    {
+      "id": "placeholder-api",
+      "file": "placeholder-api-3.1.0-beta.1+26.2.jar",
+      "version": "3.1.0-beta.1+26.2",
+      "url": "https://edge.forgecdn.net/files/8271/471/placeholder-api-3.1.0-beta.1%2b26.2.jar",
+      "cfManaged": true
+    },
+    {
       "file": "polymorph-fabric-26.2-0.49.10-alpha.jar",
       "version": "0.49.10-26.2-alpha",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/polymorph-fabric-26.2-0.49.10-alpha.jar",
@@ -965,6 +1214,13 @@
       "version": "1.0.2",
       "sha256": "aec495ca4b4f4fc2a5a208946268905667e1be9445b697686ae4fbc8e7dd05f8",
       "url": "https://edge.forgecdn.net/files/8393/880/pottery-1.0.2-fabric-mc26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "prickle",
+      "file": "PrickleMC-fabric-MC26.2-26.2.0.3.jar",
+      "version": "26.2.0.3",
+      "url": "https://edge.forgecdn.net/files/8397/204/PrickleMC-fabric-MC26.2-26.2.0.3.jar",
       "cfManaged": true
     },
     {
@@ -1011,11 +1267,47 @@
       "id": "porting_lib_registry"
     },
     {
+      "id": "resourcefullib",
+      "file": "ResourcefulLib-5.0.4.jar",
+      "version": "5.0.4",
+      "url": "https://edge.forgecdn.net/files/8797/759/ResourcefulLib-5.0.4.jar",
+      "cfManaged": true
+    },
+    {
       "file": "resources-3.1.0+26.2.jar",
       "version": "3.1.0+26.2",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/resources-3.1.0%2B26.2.jar",
       "sha256": "c0674ea0d1132fcfc2e9060b92d37d7de37ad8fa87a591dac040cc35af737959",
       "id": "porting_lib_resources"
+    },
+    {
+      "id": "ribbits",
+      "file": "RibbitsRemastered-26.2-Fabric-1.0.1.jar",
+      "version": "1.0.1",
+      "sha256": "5da082a404130927df723eba42ad5f8255e02fbd204e18e9399726a4917299b1",
+      "url": "https://edge.forgecdn.net/files/9070/356/RibbitsRemastered-26.2-Fabric-1.0.1.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "scalablelux",
+      "file": "ScalableLux-0.2.1+fabric.2b08348-all.jar",
+      "version": "0.2.1+fabric.2b08348",
+      "url": "https://edge.forgecdn.net/files/8235/664/ScalableLux-0.2.1%2bfabric.2b08348-all.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "searchables",
+      "file": "Searchables-fabric-26.2-1.0.1.jar",
+      "version": "1.0.1",
+      "url": "https://edge.forgecdn.net/files/8262/513/Searchables-fabric-26.2-1.0.1.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "shogi",
+      "file": "shogi-fabric-26.2-26.2.0.8.jar",
+      "version": "26.2.0.8",
+      "url": "https://edge.forgecdn.net/files/8978/488/shogi-fabric-26.2-26.2.0.8.jar",
+      "cfManaged": true
     },
     {
       "file": "shroom_dealers-fabric-26.2-2.0.2.jar",
@@ -1040,6 +1332,13 @@
       "id": "simplehats"
     },
     {
+      "id": "sleep",
+      "file": "sleep-v4.3.18.jar",
+      "version": "1-v4.3.18",
+      "url": "https://edge.forgecdn.net/files/8382/15/sleep-v4.3.18.jar",
+      "cfManaged": true
+    },
+    {
       "file": "smarterfarmers-26.2-2.2.4-fabric.jar",
       "version": "26.2-2.2.4",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/smarterfarmers-26.2-2.2.4-fabric.jar",
@@ -1052,6 +1351,13 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/smoothboot-fabric-26.2.jar",
       "sha256": "dbb18d4c38ccd59d90ccf3816545d5bdfa2334410f0d29dafefe593518531d85",
       "id": "smoothboot"
+    },
+    {
+      "id": "sodium",
+      "file": "sodium-fabric-0.9.2+mc26.2.jar",
+      "version": "0.9.2+mc26.2",
+      "url": "https://edge.forgecdn.net/files/8859/535/sodium-fabric-0.9.2%2bmc26.2.jar",
+      "cfManaged": true
     },
     {
       "file": "solcarrot-1.20.0-fabric.jar",
@@ -1082,11 +1388,53 @@
       "id": "sophisticatedstorage"
     },
     {
+      "id": "sound_physics_remastered",
+      "file": "sound-physics-remastered-fabric-1.5.1+26.2.jar",
+      "version": "1.5.1+26.2",
+      "url": "https://edge.forgecdn.net/files/8271/3/sound-physics-remastered-fabric-1.5.1%2b26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "spark",
+      "file": "spark-1.10.187-fabric.jar",
+      "version": "1.10.187",
+      "url": "https://edge.forgecdn.net/files/8918/571/spark-1.10.187-fabric.jar",
+      "cfManaged": true
+    },
+    {
       "file": "strawgolem-fabric-26.2-2.2.2.jar",
       "version": "26.2-2.2.2",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/strawgolem-fabric-26.2-2.2.2.jar",
       "sha256": "bac1e9aa712b8ff839f5bd99ca34f1306de517774ff1cb4feabf11e4dc3d2992",
       "id": "strawgolem"
+    },
+    {
+      "id": "structory",
+      "file": "Structory_26.2_v1.3.7.jar",
+      "version": "1.3.17",
+      "url": "https://edge.forgecdn.net/files/8396/883/Structory_26.2_v1.3.7.jar",
+      "cfManaged": true
+    },
+    {
+      "file": "SubtleEffects-fabric-26.2-1.15.1.jar",
+      "version": "1.15.1",
+      "url": "https://edge.forgecdn.net/files/9150/664/SubtleEffects-fabric-26.2-1.15.1.jar",
+      "id": "subtle_effects",
+      "cfManaged": true
+    },
+    {
+      "id": "supermartijn642configlib",
+      "file": "supermartijn642configlib-1.1.8a-fabric-mc26.2.jar",
+      "version": "1.1.8+a",
+      "url": "https://edge.forgecdn.net/files/9009/449/supermartijn642configlib-1.1.8a-fabric-mc26.2.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "supermartijn642corelib",
+      "file": "supermartijn642corelib-1.1.25-fabric-mc26.2.jar",
+      "version": "1.1.25",
+      "url": "https://edge.forgecdn.net/files/9083/542/supermartijn642corelib-1.1.25-fabric-mc26.2.jar",
+      "cfManaged": true
     },
     {
       "file": "supplementaries-26.2-3.9.9-fabric.jar",
@@ -1096,11 +1444,31 @@
       "id": "supplementaries"
     },
     {
+      "id": "t_and_t",
+      "file": "t_and_t-fabric-neoforge-1.13.11.jar",
+      "version": "1.13.11",
+      "url": "https://edge.forgecdn.net/files/7886/369/t_and_t-fabric-neoforge-1.13.11.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "terrablender",
+      "file": "TerraBlender-fabric-26.2-26.2.0.0.2.jar",
+      "version": "26.2.0.0.2",
+      "url": "https://edge.forgecdn.net/files/8384/514/TerraBlender-fabric-26.2-26.2.0.0.2.jar",
+      "cfManaged": true
+    },
+    {
+      "file": "ToolBelt-fabric-26.2-2.10.0.jar",
+      "version": "26.2-2.10.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/ToolBelt-fabric-26.2-2.10.0.jar",
+      "sha256": "c3399fb15cdb334ec7fe40ce38f5c9e490fecd45b02b027dcbcce25e303debec",
+      "id": "toolbelt"
+    },
+    {
       "id": "treeharvester",
       "file": "treeharvester-26.2.0-10.3.jar",
       "version": "10.3",
-      "sha256": "ca5f2fe250f7a7883d344ff69f44a102b3c8f4d3a9fe6027752d7c868e8ec7be",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/treeharvester-26.2.0-10.3.jar",
+      "url": "https://edge.forgecdn.net/files/9222/790/treeharvester-26.2.0-10.3.jar",
       "cfManaged": true
     },
     {
@@ -1131,6 +1499,13 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/variantchiseledbookshelves-fabric-26.2-1.0.jar",
       "sha256": "984ebed8fd4f4488c544fe7f2dc841939181df549220962e496a07fe6e12156c",
       "id": "variantchiseledbookshelves"
+    },
+    {
+      "id": "villagernames",
+      "file": "villagernames-26.2.0-8.8.jar",
+      "version": "8.8",
+      "url": "https://edge.forgecdn.net/files/9222/699/villagernames-26.2.0-8.8.jar",
+      "cfManaged": true
     },
     {
       "file": "vinery-fabric-1.5.4.jar",
@@ -1180,6 +1555,83 @@
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgangupdater.jar",
       "sha256": "3849837c12e8ed884c50680bc417a0172c4bd3969b8488a25a044cf7b23fd94f",
       "id": "wolfgangupdater"
+    },
+    {
+      "id": "xaerominimap",
+      "file": "xaerominimap-fabric-26.2-26.6.0.jar",
+      "version": "26.6.0",
+      "url": "https://edge.forgecdn.net/files/9067/199/xaerominimap-fabric-26.2-26.6.0.jar",
+      "cfManaged": true
+    },
+    {
+      "id": "xaeroworldmap",
+      "file": "xaeroworldmap-fabric-26.2-1.47.0.jar",
+      "version": "1.47.0",
+      "url": "https://edge.forgecdn.net/files/9067/380/xaeroworldmap-fabric-26.2-1.47.0.jar",
+      "cfManaged": true
+    },
+    {
+      "file": "YungsApi-26.2-Fabric-6.1.3.jar",
+      "version": "26.2-Fabric-6.1.3",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsApi-26.2-Fabric-6.1.3.jar",
+      "sha256": "572fa9f671577e03b76b802785726b113dd264145b4570d7db4bfd5ecb489cc9",
+      "id": "yungsapi"
+    },
+    {
+      "file": "YungsBetterCaves-26.2-Fabric-4.1.2.jar",
+      "version": "26.2-Fabric-4.1.2",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterCaves-26.2-Fabric-4.1.2.jar",
+      "sha256": "94a9a3642a157479bedfe21d2f5fe9d576f0517d48b1ef21d74ac85cc2ed519c",
+      "id": "bettercaves"
+    },
+    {
+      "file": "YungsBetterDesertTemples-26.2-Fabric-5.1.1.jar",
+      "version": "26.2-Fabric-5.1.1",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterDesertTemples-26.2-Fabric-5.1.1.jar",
+      "sha256": "2bf5ec815fa591ad634a550d676816c6821a5e901b3b3876fc5678b572404b5d",
+      "id": "betterdeserttemples"
+    },
+    {
+      "file": "YungsBetterDungeons-26.2-Fabric-6.1.1.jar",
+      "version": "26.2-Fabric-6.1.1",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterDungeons-26.2-Fabric-6.1.1.jar",
+      "sha256": "b9478df9b7942dd669e6a9e75886982728d1a584ec8a36df6e8b6deace045d64",
+      "id": "betterdungeons"
+    },
+    {
+      "file": "YungsBetterJungleTemples-26.2-Fabric-4.1.1.jar",
+      "version": "26.2-Fabric-4.1.1",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterJungleTemples-26.2-Fabric-4.1.1.jar",
+      "sha256": "c6921c1706b3e80fa1ee87b4bbcd93133b6601602495f2cf59aefb0723db4fe0",
+      "id": "betterjungletemples"
+    },
+    {
+      "file": "YungsBetterMineshafts-26.2-Fabric-6.1.1.jar",
+      "version": "26.2-Fabric-6.1.1",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterMineshafts-26.2-Fabric-6.1.1.jar",
+      "sha256": "9f7743d88b66892612573c777cc085da02489d6b509d068b8793747e69dc00ff",
+      "id": "bettermineshafts"
+    },
+    {
+      "file": "YungsBetterStrongholds-26.2-Fabric-6.1.1.jar",
+      "version": "26.2-Fabric-6.1.1",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterStrongholds-26.2-Fabric-6.1.1.jar",
+      "sha256": "a0de69cc6404bb035708a77a26d3a87bc254602324d3f33db2fc486ded072811",
+      "id": "betterstrongholds"
+    },
+    {
+      "file": "YungsBetterWitchHuts-26.2-Fabric-5.1.1.jar",
+      "version": "26.2-Fabric-5.1.1",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsBetterWitchHuts-26.2-Fabric-5.1.1.jar",
+      "sha256": "c8995bdcf2619987e7b9077757f4dc36abff12deddefdcd61130b994d7bc0a60",
+      "id": "betterwitchhuts"
+    },
+    {
+      "file": "YungsExtras-26.2-Fabric-6.1.0.jar",
+      "version": "26.2-Fabric-6.1.0",
+      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/YungsExtras-26.2-Fabric-6.1.0.jar",
+      "sha256": "43592e1a2b8e9c35e0d90191c6dcb3399fc72eb9fa3cf3179fe13b148f8b6f2b",
+      "id": "yungsextras"
     },
     {
       "file": "zetter-0.21.7-fabric.jar",
