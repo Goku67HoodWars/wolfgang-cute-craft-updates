@@ -19,7 +19,8 @@
       "file": "addonslib-fabric-26.2-1.0.jar",
       "version": "26.2-1.0",
       "url": "https://edge.forgecdn.net/files/8424/886/addonslib-fabric-26.2-1.0.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1090999
     },
     {
       "id": "adorn",
@@ -40,7 +41,8 @@
       "file": "AmbientSounds_FABRIC_v6.3.6_mc26.2.jar",
       "version": "6.3.6",
       "url": "https://edge.forgecdn.net/files/8299/375/AmbientSounds_FABRIC_v6.3.6_mc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 254284
     },
     {
       "file": "amendments-26.2-2.1.10-fabric.jar",
@@ -68,7 +70,8 @@
       "file": "appleskin-fabric-mc26.2-3.0.10.jar",
       "version": "3.0.10+mc26.2",
       "url": "https://edge.forgecdn.net/files/8271/985/appleskin-fabric-mc26.2-3.0.10.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 248787
     },
     {
       "file": "aquaculture-fabric-2.8.9.jar",
@@ -89,7 +92,8 @@
       "file": "architectury-fabric-21.1.12.jar",
       "version": "21.1.12",
       "url": "https://edge.forgecdn.net/files/9111/234/architectury-fabric-21.1.12.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 419699
     },
     {
       "file": "artifacts-fabric-15.2.0.jar",
@@ -111,7 +115,8 @@
       "version": "2.0.7",
       "sha256": "a5c70af8f95c2cf62506ec4a6f0a7b643498bc0f2857db27b9000a64bbe938a6",
       "url": "https://edge.forgecdn.net/files/8887/470/baguettelib-26.2-Fabric-2.0.7.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1264423
     },
     {
       "file": "Bakery-fabric-2.1.7.jar",
@@ -125,7 +130,8 @@
       "file": "balm-fabric-26.2-26.2.0.9.jar",
       "version": "26.2.0.9",
       "url": "https://edge.forgecdn.net/files/8969/716/balm-fabric-26.2-26.2.0.9.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 531761
     },
     {
       "id": "beautify",
@@ -133,7 +139,8 @@
       "version": "3.0.0+26.2",
       "sha256": "dc418901b7b76f5685c4d8a5c7dc90ca077270555328c2af04e843197fca53d4",
       "url": "https://edge.forgecdn.net/files/9080/28/beautify-fabric-3.0.0%2b26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 809311
     },
     {
       "file": "BiomesOPlenty-fabric-26.2-26.2.0.0.28.jar",
@@ -161,14 +168,16 @@
       "file": "BoatJump-1.9.jar",
       "version": "1.9",
       "url": "https://edge.forgecdn.net/files/8164/591/BoatJump-1.9.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1502176
     },
     {
       "id": "bookshelf",
       "file": "Bookshelf-fabric-MC26.2-26.2.0.4.jar",
       "version": "26.2.0.4",
       "url": "https://edge.forgecdn.net/files/8391/389/Bookshelf-fabric-MC26.2-26.2.0.4.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 228525
     },
     {
       "file": "botanypots-fabric-26.2.jar",
@@ -196,7 +205,8 @@
       "file": "c2me-fabric-mc26.2-0.4.2-alpha.0.60.jar",
       "version": "0.4.2-alpha.0.60+26.2",
       "url": "https://edge.forgecdn.net/files/9147/576/c2me-fabric-mc26.2-0.4.2-alpha.0.60.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 533097
     },
     {
       "file": "candlelight-fabric-2.1.13.jar",
@@ -210,14 +220,16 @@
       "file": "carryon-fabric-26.2-2.11.2.jar",
       "version": "2.11.2",
       "url": "https://edge.forgecdn.net/files/8989/837/carryon-fabric-26.2-2.11.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 274259
     },
     {
       "id": "charmofundyingreborn",
       "file": "CharmOfUndyingReborn-1.1.0-alpha.2.jar",
       "version": "1.1.0-alpha.2",
       "url": "https://edge.forgecdn.net/files/8997/862/CharmOfUndyingReborn-1.1.0-alpha.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1623043
     },
     {
       "file": "Chipped-5.0.0.jar",
@@ -238,21 +250,24 @@
       "file": "Chunky-Fabric-1.5.3.jar",
       "version": "1.5.3",
       "url": "https://edge.forgecdn.net/files/8036/332/Chunky-Fabric-1.5.3.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 433175
     },
     {
       "id": "cloth-config",
       "file": "cloth-config-26.2.155.jar",
       "version": "26.2.155",
       "url": "https://edge.forgecdn.net/files/8269/699/cloth-config-26.2.155.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 348521
     },
     {
       "id": "clumps",
       "file": "Clumps-fabric-26.2-26.2.1.jar",
       "version": "26.2.1",
       "url": "https://edge.forgecdn.net/files/8262/615/Clumps-fabric-26.2-26.2.1.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 256717
     },
     {
       "id": "cluttered",
@@ -288,7 +303,8 @@
       "version": "16.0.0+26.2",
       "sha256": "4d49ef94f4fc110c40521b7107e1c74f52439f0c820b8b097790a7d716998bc8",
       "url": "https://edge.forgecdn.net/files/8303/503/comforts-fabric-16.0.0%2b26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 276951
     },
     {
       "id": "connectedglass",
@@ -296,21 +312,24 @@
       "version": "1.1.14",
       "sha256": "319709c5cc920605c5eb89d8a5be16daf9e8d8d33262b5ebe3d4aec39b1ca8d0",
       "url": "https://edge.forgecdn.net/files/8393/884/connectedglass-1.1.14-fabric-mc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 383129
     },
     {
       "id": "continuity",
       "file": "continuity-3.0.1+26.2.jar",
       "version": "3.0.1+26.2",
       "url": "https://edge.forgecdn.net/files/8261/100/continuity-3.0.1%2b26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 531351
     },
     {
       "id": "controlling",
       "file": "Controlling-fabric-26.2-26.2.4.jar",
       "version": "26.2.4",
       "url": "https://edge.forgecdn.net/files/8925/564/Controlling-fabric-26.2-26.2.4.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 250398
     },
     {
       "file": "cooking_with_mindthemoods-fabric-26.2-1.0.0.jar",
@@ -352,21 +371,24 @@
       "file": "craftingtweaks-fabric-26.2-26.2.0.3.jar",
       "version": "26.2.0.3",
       "url": "https://edge.forgecdn.net/files/8697/33/craftingtweaks-fabric-26.2-26.2.0.3.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 233071
     },
     {
       "id": "creativecore",
       "file": "CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
       "version": "2.14.16",
       "url": "https://edge.forgecdn.net/files/8299/367/CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 257814
     },
     {
       "id": "cristellib",
       "file": "cristellib-fabric-26.2-3.1.13.jar",
       "version": "3.1.13",
       "url": "https://edge.forgecdn.net/files/8921/491/cristellib-fabric-26.2-3.1.13.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 856996
     },
     {
       "file": "ding_reborn-fabric-26.2-1.0.0.jar",
@@ -401,7 +423,8 @@
       "file": "EnchantmentDescriptions-fabric-MC26.2-26.2.0.2.jar",
       "version": "26.2.0.2",
       "url": "https://edge.forgecdn.net/files/8692/955/EnchantmentDescriptions-fabric-MC26.2-26.2.0.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 250419
     },
     {
       "file": "enderpalette-0.1.1.jar",
@@ -422,28 +445,32 @@
       "file": "entity_model_features-3.3.12-26.2-fabric.jar",
       "version": "3.3.12",
       "url": "https://edge.forgecdn.net/files/9188/545/entity_model_features-3.3.12-26.2-fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 844662
     },
     {
       "id": "entity_texture_features",
       "file": "entity_texture_features-7.2.6-26.2-fabric.jar",
       "version": "7.2.6",
       "url": "https://edge.forgecdn.net/files/9188/427/entity_texture_features-7.2.6-26.2-fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 568563
     },
     {
       "id": "entityculling",
       "file": "entityculling-fabric-1.11.3-mc26.2.jar",
       "version": "1.11.3",
       "url": "https://edge.forgecdn.net/files/9100/313/entityculling-fabric-1.11.3-mc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 448233
     },
     {
       "id": "essential-container",
       "file": "Essential_1-5-1_fabric_26-2.jar",
       "version": "1.0.0",
       "url": "https://edge.forgecdn.net/files/9189/688/Essential_1-5-1_fabric_26-2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 546670
     },
     {
       "id": "explorerscompass",
@@ -451,21 +478,24 @@
       "version": "26.2-2.5.1-fabric",
       "sha256": "17bd0478290f3c38853b105029aa61fa3094338234b34f08b516331e73115f74",
       "url": "https://edge.forgecdn.net/files/8262/912/ExplorersCompass-26.2-2.5.1-fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 491794
     },
     {
       "id": "fabric-api",
       "file": "fabric-api-0.161.0+26.2.jar",
       "version": "0.161.0+26.2",
       "url": "https://edge.forgecdn.net/files/8913/446/fabric-api-0.161.0%2b26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 306612
     },
     {
       "id": "fabric-language-kotlin",
       "file": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
       "version": "1.14.2+kotlin.2.4.21",
       "url": "https://edge.forgecdn.net/files/9106/173/fabric-language-kotlin-1.14.2%2bkotlin.2.4.21.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 308769
     },
     {
       "file": "fairylights-26.2-1.2.3-26.2.jar",
@@ -479,7 +509,8 @@
       "file": "fallingleaves-2.0.7+26.1.jar",
       "version": "2.0.7",
       "url": "https://edge.forgecdn.net/files/8180/15/fallingleaves-2.0.7%2b26.1.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 417510
     },
     {
       "file": "fantasyfurniture-fabric-26.2.jar",
@@ -549,7 +580,8 @@
       "version": "26.2-3.6.29+refabricated",
       "url": "https://edge.forgecdn.net/files/9259/926/FarmersDelight-26.2-3.6.29%2brefabricated.jar",
       "id": "farmersdelight",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 993166
     },
     {
       "file": "fast-leaf-decay-1.2.0-FABRIC.jar",
@@ -563,7 +595,8 @@
       "file": "ferritecore-9.0.0-fabric.jar",
       "version": "9.0.0",
       "url": "https://edge.forgecdn.net/files/7806/40/ferritecore-9.0.0-fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 459857
     },
     {
       "file": "floral_tonics_and_tinctures-2.2.226.2-fabric-alpha.jar",
@@ -591,35 +624,40 @@
       "file": "flowerymooblooms-fabric-3.0.3+mc26.2.jar",
       "version": "3.0.3",
       "url": "https://edge.forgecdn.net/files/8299/159/flowerymooblooms-fabric-3.0.3%2bmc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 779833
     },
     {
       "id": "forgeconfigapiport",
       "file": "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
       "version": "26.2.1",
       "url": "https://edge.forgecdn.net/files/8292/30/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 547434
     },
     {
       "id": "framework",
       "file": "framework-fabric-26.2-0.13.26.jar",
       "version": "0.13.26",
       "url": "https://edge.forgecdn.net/files/8403/587/framework-fabric-26.2-0.13.26.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 549225
     },
     {
       "id": "freecam",
       "file": "freecam-fabric-1.5.0+mc26.2.jar",
       "version": "1.5.0",
       "url": "https://edge.forgecdn.net/files/9188/995/freecam-fabric-1.5.0%2bmc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 557076
     },
     {
       "id": "friendlyfire",
       "file": "FriendlyFire-fabric-MC26.2-26.2.0.1.jar",
       "version": "26.2.0.1",
       "url": "https://edge.forgecdn.net/files/8416/645/FriendlyFire-fabric-MC26.2-26.2.0.1.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 255105
     },
     {
       "file": "friendsandfoes-fabric-5.0.2+mc26.2.jar",
@@ -633,28 +671,32 @@
       "file": "fusion-1.3.16-fabric-mc26.2.jar",
       "version": "1.3.16",
       "url": "https://edge.forgecdn.net/files/9070/337/fusion-1.3.16-fabric-mc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 854949
     },
     {
       "id": "fzzy_config",
       "file": "fzzy_config-0.7.7+26.2.jar",
       "version": "0.7.7+26.2",
       "url": "https://edge.forgecdn.net/files/8883/836/fzzy_config-0.7.7%2b26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1005914
     },
     {
       "id": "geckolib",
       "file": "geckolib-fabric-26.2-5.5.5.jar",
       "version": "5.5.5",
       "url": "https://edge.forgecdn.net/files/8819/17/geckolib-fabric-26.2-5.5.5.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 388172
     },
     {
       "id": "ghosts",
       "file": "Ghosts.jar",
       "version": "1.0.0",
       "url": "https://edge.forgecdn.net/files/8757/20/Ghosts.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1672478
     },
     {
       "file": "giant_brown_mushroom-fabric-26.2-1.0.1.jar",
@@ -682,7 +724,8 @@
       "file": "GlitchCore-fabric-26.2-26.2.0.0.0.jar",
       "version": "26.2.0.0.0",
       "url": "https://edge.forgecdn.net/files/8332/872/GlitchCore-fabric-26.2-26.2.0.0.0.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 955399
     },
     {
       "id": "goblintraders",
@@ -738,7 +781,8 @@
       "file": "immersive_melodies-fabric-0.8.2+26.2.jar",
       "version": "0.8.2+26.2",
       "url": "https://edge.forgecdn.net/files/9258/170/immersive_melodies-fabric-0.8.2%2b26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 904471
     },
     {
       "file": "immersive_weathering-fabric-26.2-2.0.5.jar",
@@ -752,14 +796,16 @@
       "file": "InventoryProfilesNext-fabric-26.2-2.3.8.jar",
       "version": "2.3.8",
       "url": "https://edge.forgecdn.net/files/8990/407/InventoryProfilesNext-fabric-26.2-2.3.8.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 495267
     },
     {
       "id": "iris",
       "file": "iris-fabric-1.11.4+mc26.2.jar",
       "version": "1.11.4+mc26.2",
       "url": "https://edge.forgecdn.net/files/8868/971/iris-fabric-1.11.4%2bmc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 455508
     },
     {
       "id": "ironchest",
@@ -767,14 +813,16 @@
       "version": "3.0.0+26.2",
       "sha256": "c4ccef6d50c4552d9eb1b19402c0dc9cc754b900cbcd75e57998ed06d5dcf1e1",
       "url": "https://edge.forgecdn.net/files/9163/530/IronChests-3.0.0%2b26.2-Fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 498534
     },
     {
       "id": "ironcore",
       "file": "IronCore-1.0.0+26.2-Fabric.jar",
       "version": "1.0.0+26.2",
       "url": "https://edge.forgecdn.net/files/9163/508/IronCore-1.0.0%2b26.2-Fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1721007
     },
     {
       "file": "item_abilities-3.1.0+26.2.jar",
@@ -788,7 +836,8 @@
       "file": "Jade-mc26.2-Fabric-26.2.11.jar",
       "version": "26.2.11+fabric",
       "url": "https://edge.forgecdn.net/files/8650/785/Jade-mc26.2-Fabric-26.2.11.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 324717
     },
     {
       "file": "JadeAddons-26.2-Fabric-26.0.1.jar",
@@ -816,7 +865,8 @@
       "file": "jei-26.2-fabric-30.47.0.238.jar",
       "version": "30.47.0.238",
       "url": "https://edge.forgecdn.net/files/9243/162/jei-26.2-fabric-30.47.0.238.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 238222
     },
     {
       "file": "jewelcraft-fabric-26.2-1.7.0.jar",
@@ -851,42 +901,48 @@
       "file": "justmobheads-26.2.0-9.6.jar",
       "version": "9.6",
       "url": "https://edge.forgecdn.net/files/9183/977/justmobheads-26.2.0-9.6.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 293320
     },
     {
       "id": "justplayerheads",
       "file": "justplayerheads-26.2.0-4.5.jar",
       "version": "4.5",
       "url": "https://edge.forgecdn.net/files/9033/781/justplayerheads-26.2.0-4.5.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 303441
     },
     {
       "id": "justzoom",
       "file": "justzoom_fabric_3.0.1_MC_26.2.jar",
       "version": "3.0.1",
       "url": "https://edge.forgecdn.net/files/9062/536/justzoom_fabric_3.0.1_MC_26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 561885
     },
     {
       "id": "konkrete",
       "file": "konkrete_fabric_1.11.1_MC_26.2.jar",
       "version": "1.11.1",
       "url": "https://edge.forgecdn.net/files/8321/891/konkrete_fabric_1.11.1_MC_26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 410295
     },
     {
       "id": "krypton",
       "file": "krypton-0.3.1.jar",
       "version": "0.3.1",
       "url": "https://edge.forgecdn.net/files/8433/993/krypton-0.3.1.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 428912
     },
     {
       "id": "lambdynlights",
       "file": "lambdynamiclights-4.12.4+26.2.jar",
       "version": "4.12.4+26.2",
       "url": "https://edge.forgecdn.net/files/8780/301/lambdynamiclights-4.12.4%2b26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 393442
     },
     {
       "file": "level_events-3.1.0+26.2.jar",
@@ -900,14 +956,16 @@
       "file": "libIPN-fabric-26.2-6.9.0.jar",
       "version": "6.9.0",
       "url": "https://edge.forgecdn.net/files/8990/256/libIPN-fabric-26.2-6.9.0.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 679177
     },
     {
       "id": "lithium",
       "file": "lithium-fabric-0.25.3+mc26.2.jar",
       "version": "0.25.3+mc26.2",
       "url": "https://edge.forgecdn.net/files/8533/307/lithium-fabric-0.25.3%2bmc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 360438
     },
     {
       "file": "loot-3.1.0+26.2.jar",
@@ -936,7 +994,8 @@
       "version": "1.1.5",
       "sha256": "00e431d662489fe4a145f0e471837e1cd2bc9bcce5abe3f9f9941230765b2ded",
       "url": "https://edge.forgecdn.net/files/8286/482/mcw-doors-1.1.5-mc26.2fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 378646
     },
     {
       "id": "mcwfences",
@@ -944,7 +1003,8 @@
       "version": "1.2.1",
       "sha256": "d21843f9195f20e50bd4e938b00a94107c98adabc62fb5b1e6f431a2560a4dad",
       "url": "https://edge.forgecdn.net/files/8286/479/mcw-fences-1.2.1-mc26.2fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 453925
     },
     {
       "id": "mcwfurnitures",
@@ -959,14 +1019,16 @@
       "version": "1.1.5",
       "sha256": "ed6224962f822f40d5d56fd5b08a6eb220ba9c6ad01af35281f9f9fdafe97f7e",
       "url": "https://edge.forgecdn.net/files/8286/480/mcw-lights-1.1.5-mc26.2fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 502372
     },
     {
       "id": "mcwpaintings",
       "file": "mcw-paintings-1.1.0-mc26.2fabric.jar",
       "version": "1.1.0",
       "url": "https://edge.forgecdn.net/files/8286/489/mcw-paintings-1.1.0-mc26.2fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 438116
     },
     {
       "id": "mcwpaths",
@@ -974,7 +1036,8 @@
       "version": "1.1.1",
       "sha256": "39128a12cb64fd61286b631714da742d7b6ea0fa8d4573c103081d01e4993bc2",
       "url": "https://edge.forgecdn.net/files/8286/496/mcw-paths-1.1.1-mc26.2fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 629153
     },
     {
       "id": "mcwroofs",
@@ -982,7 +1045,8 @@
       "version": "2.3.2",
       "sha256": "bbd7dabc28c2071d587d44b7f131e8f478b4ad3577121e03e02e4baa8f3eb1e6",
       "url": "https://edge.forgecdn.net/files/8286/483/mcw-roofs-2.3.3-mc26.2fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 352039
     },
     {
       "id": "mcwstairs",
@@ -990,7 +1054,8 @@
       "version": "1.0.2",
       "sha256": "6c3166b325af8898a1a4b9be59cd28dbe9c787a88797304cfdab464ee84e6622",
       "url": "https://edge.forgecdn.net/files/8286/475/mcw-stairs-1.0.2-mc26.2fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1119394
     },
     {
       "id": "mcwtrpdoors",
@@ -998,7 +1063,8 @@
       "version": "1.1.5",
       "sha256": "6411cb0ff6c6cc4312deed48c3ca69cdbcbae72e80ff4ed0269f2d0a78acd32d",
       "url": "https://edge.forgecdn.net/files/8286/477/mcw-trapdoors-1.1.5-mc26.2fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 400933
     },
     {
       "id": "mcwwindows",
@@ -1006,7 +1072,8 @@
       "version": "2.4.2",
       "sha256": "40ba9c55f191f8bd4758293683ed2bcf6d0c76c8f54f9fc8a0dccabdbcfd36ad",
       "url": "https://edge.forgecdn.net/files/8286/487/mcw-windows-2.4.2-mc26.2fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 363569
     },
     {
       "id": "mcwbiomesoplenty",
@@ -1014,14 +1081,16 @@
       "version": "26.2-1.6",
       "sha256": "178581b37b4b9c17cec186345bde4ac487272b5a25f3b026b0f75be471bdd88a",
       "url": "https://edge.forgecdn.net/files/8430/540/mcwbiomesoplenty-fabric-26.2-1.6.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 533382
     },
     {
       "id": "mezz_config",
       "file": "mezz_config-26.2-fabric-0.6.8.jar",
       "version": "0.6.8",
       "url": "https://edge.forgecdn.net/files/9048/673/mezz_config-26.2-fabric-0.6.8.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1689768
     },
     {
       "file": "mineshaftfix-1.0.jar",
@@ -1077,7 +1146,8 @@
       "file": "modmenu-20.0.3.jar",
       "version": "20.0.3",
       "url": "https://edge.forgecdn.net/files/8966/634/modmenu-20.0.3.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 308702
     },
     {
       "file": "moonlight-26.2-4.1.0-fabric.jar",
@@ -1091,7 +1161,8 @@
       "file": "MouseTweaks-fabric-mc26.2-2.31.jar",
       "version": "2.31",
       "url": "https://edge.forgecdn.net/files/8260/318/MouseTweaks-fabric-mc26.2-2.31.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 60089
     },
     {
       "file": "mushroom_villager_trader-fabric-26.2-2.0.0.jar",
@@ -1106,7 +1177,8 @@
       "version": "26.2-2.5.1-fabric",
       "sha256": "f7cdaffdbd2904f5e59d53b1f3631193b6f800e1e78722612c0de1eed8821965",
       "url": "https://edge.forgecdn.net/files/8262/900/NaturesCompass-26.2-2.5.1-fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 252848
     },
     {
       "file": "neapolitan-fabric-6.1.0-26.2-port.jar",
@@ -1141,7 +1213,8 @@
       "file": "noisium-fabric-2.8.5+mc26.2-pre-2.jar",
       "version": "2.8.5+mc26.2-pre-2",
       "url": "https://edge.forgecdn.net/files/8264/767/noisium-fabric-2.8.5%2bmc26.2-pre-2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1357563
     },
     {
       "file": "owo-lib-0.13.1+26.2.jar",
@@ -1183,7 +1256,8 @@
       "file": "particular-26.2-Fabric-1.5.7.jar",
       "version": "1.5.7",
       "url": "https://edge.forgecdn.net/files/8662/712/particular-26.2-Fabric-1.5.7.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1219053
     },
     {
       "file": "Patchouli-26.2-94-FABRIC.jar",
@@ -1197,7 +1271,8 @@
       "file": "placeholder-api-3.1.0-beta.1+26.2.jar",
       "version": "3.1.0-beta.1+26.2",
       "url": "https://edge.forgecdn.net/files/8271/471/placeholder-api-3.1.0-beta.1%2b26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1037459
     },
     {
       "file": "polymorph-fabric-26.2-0.49.10-alpha.jar",
@@ -1212,14 +1287,16 @@
       "version": "1.0.2",
       "sha256": "aec495ca4b4f4fc2a5a208946268905667e1be9445b697686ae4fbc8e7dd05f8",
       "url": "https://edge.forgecdn.net/files/8393/880/pottery-1.0.2-fabric-mc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 955781
     },
     {
       "id": "prickle",
       "file": "PrickleMC-fabric-MC26.2-26.2.0.3.jar",
       "version": "26.2.0.3",
       "url": "https://edge.forgecdn.net/files/8397/204/PrickleMC-fabric-MC26.2-26.2.0.3.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1023259
     },
     {
       "file": "productivebees-26.2-15.2.0.jar",
@@ -1248,7 +1325,8 @@
       "version": "1.0.25",
       "sha256": "78b98c20be2158a625a34eef116096a9bc4de3af37918ffebde678d30750e695",
       "url": "https://edge.forgecdn.net/files/8403/606/refurbished_furniture-fabric-26.2-1.0.25.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 897116
     },
     {
       "file": "registree-fabric-26.2.jar",
@@ -1269,7 +1347,8 @@
       "file": "ResourcefulLib-5.0.4.jar",
       "version": "5.0.4",
       "url": "https://edge.forgecdn.net/files/8797/759/ResourcefulLib-5.0.4.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 570073
     },
     {
       "file": "resources-3.1.0+26.2.jar",
@@ -1284,28 +1363,32 @@
       "version": "1.0.1",
       "sha256": "5da082a404130927df723eba42ad5f8255e02fbd204e18e9399726a4917299b1",
       "url": "https://edge.forgecdn.net/files/9070/356/RibbitsRemastered-26.2-Fabric-1.0.1.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1726493
     },
     {
       "id": "scalablelux",
       "file": "ScalableLux-0.2.1+fabric.2b08348-all.jar",
       "version": "0.2.1+fabric.2b08348",
       "url": "https://edge.forgecdn.net/files/8235/664/ScalableLux-0.2.1%2bfabric.2b08348-all.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1055925
     },
     {
       "id": "searchables",
       "file": "Searchables-fabric-26.2-1.0.1.jar",
       "version": "1.0.1",
       "url": "https://edge.forgecdn.net/files/8262/513/Searchables-fabric-26.2-1.0.1.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 858542
     },
     {
       "id": "shogi",
       "file": "shogi-fabric-26.2-26.2.0.8.jar",
       "version": "26.2.0.8",
       "url": "https://edge.forgecdn.net/files/8978/488/shogi-fabric-26.2-26.2.0.8.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1475746
     },
     {
       "file": "shroom_dealers-fabric-26.2-2.0.2.jar",
@@ -1320,7 +1403,8 @@
       "version": "2.04.1",
       "sha256": "e27fe632f7cfb03ba569ec76186818ab7a6f64729ced04f6f445416e63bdab8a",
       "url": "https://edge.forgecdn.net/files/8871/853/signpost-fabric-26.2-2.04.1.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 261837
     },
     {
       "file": "simplehats-fabric-26.2-0.4.0a.jar",
@@ -1334,7 +1418,8 @@
       "file": "sleep-v4.3.18.jar",
       "version": "1-v4.3.18",
       "url": "https://edge.forgecdn.net/files/8382/15/sleep-v4.3.18.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1425695
     },
     {
       "file": "smarterfarmers-26.2-2.2.4-fabric.jar",
@@ -1355,7 +1440,8 @@
       "file": "sodium-fabric-0.9.2+mc26.2.jar",
       "version": "0.9.2+mc26.2",
       "url": "https://edge.forgecdn.net/files/8859/535/sodium-fabric-0.9.2%2bmc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 394468
     },
     {
       "file": "solcarrot-1.20.0-fabric.jar",
@@ -1390,14 +1476,16 @@
       "file": "sound-physics-remastered-fabric-1.5.1+26.2.jar",
       "version": "1.5.1+26.2",
       "url": "https://edge.forgecdn.net/files/8271/3/sound-physics-remastered-fabric-1.5.1%2b26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 535489
     },
     {
       "id": "spark",
       "file": "spark-1.10.187-fabric.jar",
       "version": "1.10.187",
       "url": "https://edge.forgecdn.net/files/8918/571/spark-1.10.187-fabric.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 361579
     },
     {
       "file": "strawgolem-fabric-26.2-2.2.2.jar",
@@ -1411,28 +1499,32 @@
       "file": "Structory_26.2_v1.3.7.jar",
       "version": "1.3.17",
       "url": "https://edge.forgecdn.net/files/8396/883/Structory_26.2_v1.3.7.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 636540
     },
     {
       "file": "SubtleEffects-fabric-26.2-1.15.1.jar",
       "version": "1.15.1",
       "url": "https://edge.forgecdn.net/files/9150/664/SubtleEffects-fabric-26.2-1.15.1.jar",
       "id": "subtle_effects",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1023913
     },
     {
       "id": "supermartijn642configlib",
       "file": "supermartijn642configlib-1.1.8a-fabric-mc26.2.jar",
       "version": "1.1.8+a",
       "url": "https://edge.forgecdn.net/files/9009/449/supermartijn642configlib-1.1.8a-fabric-mc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 438332
     },
     {
       "id": "supermartijn642corelib",
       "file": "supermartijn642corelib-1.1.25-fabric-mc26.2.jar",
       "version": "1.1.25",
       "url": "https://edge.forgecdn.net/files/9083/542/supermartijn642corelib-1.1.25-fabric-mc26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 454372
     },
     {
       "file": "supplementaries-26.2-3.9.9-fabric.jar",
@@ -1446,14 +1538,16 @@
       "file": "t_and_t-fabric-neoforge-1.13.11.jar",
       "version": "1.13.11",
       "url": "https://edge.forgecdn.net/files/7886/369/t_and_t-fabric-neoforge-1.13.11.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 626761
     },
     {
       "id": "terrablender",
       "file": "TerraBlender-fabric-26.2-26.2.0.0.2.jar",
       "version": "26.2.0.0.2",
       "url": "https://edge.forgecdn.net/files/8384/514/TerraBlender-fabric-26.2-26.2.0.0.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 565956
     },
     {
       "file": "ToolBelt-fabric-26.2-2.10.0.jar",
@@ -1467,7 +1561,8 @@
       "file": "treeharvester-26.2.0-10.3.jar",
       "version": "10.3",
       "url": "https://edge.forgecdn.net/files/9222/790/treeharvester-26.2.0-10.3.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 367178
     },
     {
       "id": "trinkets_updated",
@@ -1475,7 +1570,8 @@
       "version": "4.1.1+26.2",
       "sha256": "2365e8a19b5f62c812e95ac5fc23ee163bc753a5d9ec38f517f72da269eb0c4b",
       "url": "https://edge.forgecdn.net/files/8978/737/trinkets-4.1.1%2b26.2.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 1509777
     },
     {
       "file": "twigs-3.1.0.jar",
@@ -1503,7 +1599,8 @@
       "file": "villagernames-26.2.0-8.8.jar",
       "version": "8.8",
       "url": "https://edge.forgecdn.net/files/9222/699/villagernames-26.2.0-8.8.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 345854
     },
     {
       "file": "vinery-fabric-1.5.4.jar",
@@ -1549,9 +1646,9 @@
     },
     {
       "file": "wolfgangupdater.jar",
-      "version": "1.0.16",
+      "version": "1.0.17",
       "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgangupdater.jar",
-      "sha256": "3849837c12e8ed884c50680bc417a0172c4bd3969b8488a25a044cf7b23fd94f",
+      "sha256": "0113ae64788f87e4e67c92fcacd0f8859136d371761641f3c592a8243871dc7d",
       "id": "wolfgangupdater"
     },
     {
@@ -1559,14 +1656,16 @@
       "file": "xaerominimap-fabric-26.2-26.6.0.jar",
       "version": "26.6.0",
       "url": "https://edge.forgecdn.net/files/9067/199/xaerominimap-fabric-26.2-26.6.0.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 263420
     },
     {
       "id": "xaeroworldmap",
       "file": "xaeroworldmap-fabric-26.2-1.47.0.jar",
       "version": "1.47.0",
       "url": "https://edge.forgecdn.net/files/9067/380/xaeroworldmap-fabric-26.2-1.47.0.jar",
-      "cfManaged": true
+      "cfManaged": true,
+      "cfProjectId": 317780
     },
     {
       "file": "YungsApi-26.2-Fabric-6.1.3.jar",
