@@ -545,10 +545,9 @@
       "id": "farm_and_charm"
     },
     {
-      "file": "FarmersDelight-26.2-3.6.28+refabricated.jar",
-      "version": "26.2-3.6.28+refabricated",
-      "url": "https://edge.forgecdn.net/files/9090/141/FarmersDelight-26.2-3.6.28%2brefabricated.jar",
-      "sha256": "9665e3bd292e6ab0152c353adb7dc9e094b40d5c4e941fb7d2a906bef3aa4304",
+      "file": "FarmersDelight-26.2-3.6.29+refabricated.jar",
+      "version": "26.2-3.6.29+refabricated",
+      "url": "https://edge.forgecdn.net/files/9259/926/FarmersDelight-26.2-3.6.29%2brefabricated.jar",
       "id": "farmersdelight",
       "cfManaged": true
     },
@@ -736,10 +735,9 @@
     },
     {
       "id": "immersive_melodies",
-      "file": "immersive_melodies-fabric-0.8.0+26.2.jar",
-      "version": "0.8.0+26.2",
-      "sha256": "c8ca77b82dc160b9865c5b45784f1b87b44418e3f19aa3873e2bfe2b02dc3c0a",
-      "url": "https://edge.forgecdn.net/files/8887/864/immersive_melodies-fabric-0.8.0%2b26.2.jar",
+      "file": "immersive_melodies-fabric-0.8.2+26.2.jar",
+      "version": "0.8.2+26.2",
+      "url": "https://edge.forgecdn.net/files/9258/170/immersive_melodies-fabric-0.8.2%2b26.2.jar",
       "cfManaged": true
     },
     {
