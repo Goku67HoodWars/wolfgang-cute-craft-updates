@@ -1859,5 +1859,10 @@
   "remove": [
     "sereneseasons",
     "sereneseasonsphc2crops"
-  ]
+  ],
+  "seed": {
+    "file": "wolfgang-seed.zip",
+    "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/wolfgang-seed.zip",
+    "sha256": "db92d2701cb6239cdb71b8f2cbb31048ca010fa718893825f10de4e03272046f"
+  }
 }
