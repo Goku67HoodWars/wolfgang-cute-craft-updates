@@ -291,10 +291,11 @@
     },
     {
       "id": "collective",
-      "file": "collective-26.2.0-8.58.jar",
-      "version": "8.58",
-      "sha256": "af4376e2a25603245eff6229890061ba6ca5ccbc814a700b9da07a478511a950",
-      "url": "https://github.com/Goku67HoodWars/wolfgang-cute-craft-updates/releases/download/mods/collective-26.2.0-8.58.jar"
+      "file": "collective-26.2.0-8.67.jar",
+      "version": "8.67",
+      "url": "https://edge.forgecdn.net/files/9338/836/collective-26.2.0-8.67.jar",
+      "cfManaged": true,
+      "cfProjectId": 342584
     },
     {
       "id": "comforts",
